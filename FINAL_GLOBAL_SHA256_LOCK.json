@@ -1,17 +1,5 @@
 [
     {
-        "Path":  "C:\\Users\\aureon\\asios-execution-set\\arc-agi-2-results-audit.txt",
-        "Hash":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
-    },
-    {
-        "Path":  "C:\\Users\\aureon\\asios-execution-set\\arc-agi-2-solved.json",
-        "Hash":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
-    },
-    {
-        "Path":  "C:\\Users\\aureon\\asios-execution-set\\arc-agi-2-solved.zip",
-        "Hash":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
-    },
-    {
         "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC_AGI_ARTIFACTS_SUMMARY.txt",
         "Hash":  "7D5C9A48D0C932B31741F6134D15B930703E29DA2353E3D818747F9CAD1D2AAF"
     },
@@ -26,6 +14,18 @@
     {
         "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC_AGI_MANIFEST_SHA256.csv",
         "Hash":  "E0CC97B18F5F55B2FC6AF38549ED89BF834AE3B44C4517F8E1E701D2C7E00404"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC_PRIZE_SUBMISSION.zip",
+        "Hash":  "511F1EB2C0A64705BB26DFD73C0A851F1BCAF363FCE8A2FF9D0FBCD5563FD05E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC_PRIZE_SUBMISSION.zip.sha256",
+        "Hash":  "3AD6A2DC0A383E0447866369B3ECF804CD5D7BE895FFE98B26E8C02922A00B55"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC_PRIZE_SUBMISSION_FINAL_v2.zip",
+        "Hash":  "0770B9D036C7A14334F316D072D0BB4BC95B75DB18D9912359EC2C7401F74445"
     },
     {
         "Path":  "C:\\Users\\aureon\\asios-execution-set\\asiosctl.py",
@@ -88,16 +88,16 @@
         "Hash":  "9F29B9B5AC8A43B610CCED23CFB8CCA1ACD2F4F58FAE6CC6230BADCC6E3C5D00"
     },
     {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\FINAL_GLOBAL_SHA256_LOCK.json",
+        "Hash":  "D34F3445AB73553550F39CA4576D01A718488E55393AE30D068346D2F24C936A"
+    },
+    {
         "Path":  "C:\\Users\\aureon\\asios-execution-set\\FULL_REPO_SHA256_MANIFEST.csv",
         "Hash":  "E47F0DA0FC9EB8A91E4FC8BD502C7664EEB4D1DE7BFF0EA2FB74D4242A062A55"
     },
     {
         "Path":  "C:\\Users\\aureon\\asios-execution-set\\FULL_REPO_SHA256_RECHECK.json",
         "Hash":  "5B3ADAB9F4E88C102B507CE9510049C588323C56B7F6DD6C786CF3228FDAD028"
-    },
-    {
-        "Path":  "C:\\Users\\aureon\\asios-execution-set\\hello_from_asios.txt",
-        "Hash":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
     },
     {
         "Path":  "C:\\Users\\aureon\\asios-execution-set\\LLM_EVALUATION_CORPUS.txt",
@@ -592,6 +592,3810 @@
         "Hash":  "64081AE0F70991EB6E643EF5CEF79C51F97F11481099D35F0E2FAE306DB552FA"
     },
     {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\asiosctl.py",
+        "Hash":  "A11047D092D4252545AEEA672A32E599A6F4F2ECE7A64DD37FD8E16F49E03175"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\audit_trail.md",
+        "Hash":  "0916526E559947A99F959744377AA645849916C28E3372A50C888AAFE0AF4734"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\compute_convergence.py",
+        "Hash":  "47B25654FAEC2FA9109088F592AD30DB567524C6180EE14D6EDAC38BF849F8F1"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\convergence_matrix.csv",
+        "Hash":  "91A4E2F100227487A802AC040B85700F03520B347FBFE4C23B7BF2D97B43D9FA"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\convergence_summary.txt",
+        "Hash":  "F463AB8E22FA99D181EE93155994B2D80321F15D7C1EC8F538AC4EA9A69A70AF"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\execution_set.yaml",
+        "Hash":  "9F29B9B5AC8A43B610CCED23CFB8CCA1ACD2F4F58FAE6CC6230BADCC6E3C5D00"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\LICENSE",
+        "Hash":  "E6A5FD635DC096497950CB3456CB892BAB84851EBB98CB1BE10727CF8CA683CF"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\mission_arc_agi_2.json",
+        "Hash":  "4946CC38694CEA18B2EA8D5A4D64F65726F78C4F8D4057F29D167317BABDF119"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\mission_hello.json",
+        "Hash":  "21A3BFC1CC2C1EBA1C7C0653404BD98F975B064B1A8D353507EDF80CBCB2FAC9"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\mission_swarm_proof.json",
+        "Hash":  "0035829AA5221268F71A38CBAF4DB4664945C007FBD7E87A80CFDCD41E0905FC"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\normalize.py",
+        "Hash":  "F1945CD6C19E56B3C1C78943EF5EC18116907A4CA1EFC40A57D48AB1DB7ADFC5"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\PROOF_MANIFEST.json",
+        "Hash":  "C63B2D5C1F10BB3B80FC93B6C33B9859C27F6C1C62E5C92D2ED2EE15F1D9210A"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\PROOF_MANIFEST_SHA256.csv",
+        "Hash":  "0C41A390113C18C87A9CD7E6ADDC0A12E3CC6009C27C58CD2D469C679D2033C9"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\pyproject.toml",
+        "Hash":  "58189FF94C1B08A9E20E5B7F50791D44718357768D9804C6D8C2A788A53D5C84"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\README.md",
+        "Hash":  "05D4B06E957C9A89C0BE20651A87D2AF80B31F30CDBF1A7ADB40E20B640AFE91"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\REPRODUCE.md",
+        "Hash":  "79F7C591FDDB876C050EBA3C6418A4C6386E3B2D4601FF1730DDC3CA07C4E6E6"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\results.md",
+        "Hash":  "62D68FF65DD3BE52E4AC1AD8DDC40CDA8DB0B8D2AC01D0B062E928393E2DDD3E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\results.txt",
+        "Hash":  "6D9FDFD2CD7FA8860F7C0641D05745A534262D7E6687CBE3C71F0B2366BF86F1"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\RESULTS_BUNDLE.zip",
+        "Hash":  "57784B55FF95A254611E61544C9B686AF71CBA83023E9F45D5B283F0C145FDCD"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\.github\\workflows\\validate-execution-set.yml",
+        "Hash":  "EAE4F7A2ECCBE4CC4AFCA2A5CFCC0FAB5584D5415DF0CAD9D0483A8B679C5C7F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\.github\\workflows\\validate.yml",
+        "Hash":  "8680C5124501BDF2BB07D53864E8ABF2CC7CECC9ADFD705D615EEDD469490069"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\apps\\testing_interface.html",
+        "Hash":  "8E99CECEC1E3CB9C8A5D6B9112712B3845C6151E30044DEB01183D5C7BD98DE0"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\apps\\css\\common.css",
+        "Hash":  "8C255106F408B5F17C1BB2334AA4BD3F81598D224A631C8F6444C687D0018578"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\apps\\css\\testing_interface.css",
+        "Hash":  "C2BA8779FD5528A5A7C0CDAB877DEE996339E6D5F900CFDB5F56C23728BB260A"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\apps\\img\\black-twill.png",
+        "Hash":  "8D561EAE2BFA190AB76A02E865467C38CC441A2D0C3C7292CFC057A0210B4D64"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\apps\\img\\brushed-alum.png",
+        "Hash":  "CFB3409C846D58A70739AEC753B822A6DEF3F8783165FADADFEA7B97F2A7C76D"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\apps\\js\\common.js",
+        "Hash":  "5D41A31A7D41DF9A3FDE11B51C98F38B68A89E5454D7EB88F7801A5439E4FE9D"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\apps\\js\\testing_interface.js",
+        "Hash":  "D4179078D65B5EED482A73503686E30DEC159B53A41B1C8F5BF9AA27F8F47C6C"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\ARC\\ARC_PRIZE_SUBMISSION_FINAL.zip",
+        "Hash":  "9723277D6F2C64C10BE3FB06BC02751B3DB967378655FB8F37E5AE469E4772AC"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\ARC\\ARC_PRIZE_SUBMISSION_WINNING_ONLY.zip",
+        "Hash":  "CB11B5E84D373EB8DB3D8943AB238398F6EE16C3D45805A9DF47102B5D6E86FE"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\ARC\\results.txt",
+        "Hash":  "6A5E264E27C288FF7715EEA74232962572206A4F49C53F5DBD8822EB4E3D7EF3"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\ARC\\SUBMISSION_SHA256.json",
+        "Hash":  "9652DDD2FF2044441528CE30BE2A33DA0EC99A419DF86F545150F567E9AA1FFD"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\ARC\\ARC_PRIZE_SUBMISSION_READY\\ARC_PRIZE_SUBMISSION_WINNING_ONLY.zip",
+        "Hash":  "CB11B5E84D373EB8DB3D8943AB238398F6EE16C3D45805A9DF47102B5D6E86FE"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\ARC\\ARC_PRIZE_SUBMISSION_READY\\AUDIT_README.txt",
+        "Hash":  "5BCFDBA84DEF8557C1F6C1E033890FDDE19FBFC8DFDDF1C18466EFC0A4A8CEF4"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\ARC\\ARC_PRIZE_SUBMISSION_READY\\FINAL_VERIFICATION_SHA256.csv",
+        "Hash":  "DF28021A7BEC7D464149D4B7CAE757405F81509BD17824BFBAE2E9740E77FB7A"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\ARC\\ARC_PRIZE_SUBMISSION_READY\\READY_SHA256_FINAL.txt",
+        "Hash":  "D8B8075EB6BD3960DD14262024B2C7BF315593D1DB28AA4B187BB3DC50DC4E42"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\ARC\\ARC_PRIZE_SUBMISSION_WINNING_ONLY_VERIFY\\FINAL_VERIFICATION_SHA256.csv",
+        "Hash":  "DF28021A7BEC7D464149D4B7CAE757405F81509BD17824BFBAE2E9740E77FB7A"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\ARC\\ARC_PRIZE_SUBMISSION_WINNING_ONLY_VERIFY\\SUBMISSION_SHA256.json",
+        "Hash":  "090DB1331B5179A481A99B31BDB710DAC7FAE90FBC7F85040270839C60491B3B"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\ARC\\ARC_PRIZE_SUBMISSION_WINNING_ONLY_VERIFY\\evidence\\arc_agi_2_task_1_epoch_proof.json",
+        "Hash":  "E3566B3A06430868D71E9287DFD6C6C520A3DA027AABEA01951D407EE131DC2F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\ARC\\ARC_PRIZE_SUBMISSION_WINNING_ONLY_VERIFY\\evidence\\arc_agi_2_task_1_verification.json",
+        "Hash":  "E3566B3A06430868D71E9287DFD6C6C520A3DA027AABEA01951D407EE131DC2F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\ARC\\ARC_PRIZE_SUBMISSION_WINNING_ONLY_VERIFY\\evidence\\arc_solver.py",
+        "Hash":  "E3566B3A06430868D71E9287DFD6C6C520A3DA027AABEA01951D407EE131DC2F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\ARC\\ARC_PRIZE_SUBMISSION_WINNING_ONLY_VERIFY\\evidence\\hashes.sha256",
+        "Hash":  "E3566B3A06430868D71E9287DFD6C6C520A3DA027AABEA01951D407EE131DC2F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\ARC\\ARC_PRIZE_SUBMISSION_WINNING_ONLY_VERIFY\\evidence\\manifest.json",
+        "Hash":  "E3566B3A06430868D71E9287DFD6C6C520A3DA027AABEA01951D407EE131DC2F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\ARC\\src\\evaluate.py",
+        "Hash":  "A8C523086028DCFD7D39EA8DEEA13B59109FFE0B2B19614A1912BDF9882367C6"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\ARC\\WINNING_ONLY\\SUBMISSION_SHA256.json",
+        "Hash":  "090DB1331B5179A481A99B31BDB710DAC7FAE90FBC7F85040270839C60491B3B"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\ARC\\WINNING_ONLY\\evidence\\arc_agi_2_task_1_epoch_proof.json",
+        "Hash":  "E3566B3A06430868D71E9287DFD6C6C520A3DA027AABEA01951D407EE131DC2F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\ARC\\WINNING_ONLY\\evidence\\arc_agi_2_task_1_verification.json",
+        "Hash":  "E3566B3A06430868D71E9287DFD6C6C520A3DA027AABEA01951D407EE131DC2F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\ARC\\WINNING_ONLY\\evidence\\arc_solver.py",
+        "Hash":  "E3566B3A06430868D71E9287DFD6C6C520A3DA027AABEA01951D407EE131DC2F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\ARC\\WINNING_ONLY\\evidence\\hashes.sha256",
+        "Hash":  "E3566B3A06430868D71E9287DFD6C6C520A3DA027AABEA01951D407EE131DC2F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\ARC\\WINNING_ONLY\\evidence\\manifest.json",
+        "Hash":  "E3566B3A06430868D71E9287DFD6C6C520A3DA027AABEA01951D407EE131DC2F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\artifacts\\dd_run1.json",
+        "Hash":  "14CAF2408853D6CB271C1B0908F8BB743023C30EED51BF32DA53073D659DE041"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\artifacts\\dd_run2.json",
+        "Hash":  "6F06D08E84F1745270B4AB53C89D42D691B47A55E8ACAFD906B5FC9398B80162"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\artifacts\\decision_decomposition_final_proof.txt",
+        "Hash":  "6F06D08E84F1745270B4AB53C89D42D691B47A55E8ACAFD906B5FC9398B80162"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\artifacts\\hash_proof.txt",
+        "Hash":  "E6FF349DBE0EF13D4B71530BFD61C334131A263095D8BC88E710C103148AC1F2"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\artifacts\\refusal_proof.txt",
+        "Hash":  "C67FA61C9A8F67AC39DAF1F4A14FAB80D6E736C35400C38ABB382E7CCE5D5F3D"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\artifacts\\registry_missing_refusal.txt",
+        "Hash":  "45AB92A19B861069E262B055B9F593B7F3EAF0E49D533EFA1EE22CB0E49A1BBF"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\artifacts\\tamper_refusal.txt",
+        "Hash":  "4E63DE387DCC2CB504B5494B3020D8C88CB92363F2CD2D8B5EE036C962A3D2B2"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\artifacts\\decision-decomposition\\output.json",
+        "Hash":  "6F06D08E84F1745270B4AB53C89D42D691B47A55E8ACAFD906B5FC9398B80162"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\artifacts\\decision-decomposition\\run_001.json",
+        "Hash":  "6F06D08E84F1745270B4AB53C89D42D691B47A55E8ACAFD906B5FC9398B80162"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\artifacts\\decision-decomposition\\verify_001.txt",
+        "Hash":  "1E4B28B4AD036D2F5920C3F936A8DE0B411A74F2CACBE96FCDC7B2EF08F84F5C"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\00576224.json",
+        "Hash":  "7BA34FFEEBC522CCCFE74AB4D7E06088EF6E057581B242CD8B5A7A01A77AC8EB"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\009d5c81.json",
+        "Hash":  "81C21FFD0935622C7BDC7682E2F87B7D696DB0D07838AE2F8BA765BD44518948"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\00dbd492.json",
+        "Hash":  "C28B8E58D291D317D6242C1F00F2CECAEA74EE17A48AD45D8B3078E467931FB8"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\03560426.json",
+        "Hash":  "098E548544498A4DB5E874FD8C8F87922C1B68AD62E7F2616EDC69898C8298E1"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\05a7bcf2.json",
+        "Hash":  "8DFCD7A125B196C5A81F0CFCF12C6785D1BCC17088C9ADBD53EC29DD3FCBFC2C"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\0607ce86.json",
+        "Hash":  "46CC7E54E7AF7A5E33728DD5A75451601DC5E08A9CAD8C541F19226C77174743"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\0692e18c.json",
+        "Hash":  "47F2A4608B1A93DB9CEE8ECF7AA0066F8CA2B22EB0D4779A1E139F4F182B91DF"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\070dd51e.json",
+        "Hash":  "FC5436BDCBC0E8E85F97B3BC8DA562A892700148C7A9D6C2C0CE86E65EDA6133"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\08573cc6.json",
+        "Hash":  "20FD051BC7061A7377ED0C9CA0626FACAC243DF67919EBCB2A3477EA58760E4D"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\0934a4d8.json",
+        "Hash":  "D9A8C4B8D5FDF8CCEAE917BFA79D46F2D5F344485363F5AE161364DBD0C96335"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\09c534e7.json",
+        "Hash":  "0B217E0EFF77C85DA65D7226B8D916A760BD005E57A1AFAFA98AD11A28DD4B7D"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\0a1d4ef5.json",
+        "Hash":  "3B35673D41102619E080FC517253A21E7923E2C42364900FDB89AC6719764279"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\0a2355a6.json",
+        "Hash":  "A35F75AFBD342A8F4905825AD491063CF23D135408B6FDFF15E933E930D100DE"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\0b17323b.json",
+        "Hash":  "6B2B6D8BCE48DFFD64AA6C1985017E0A7550072EC44594E81C0C7EB9E45B1249"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\0bb8deee.json",
+        "Hash":  "A63E92E3AA25D547B44B621236E34F855925A6A543D913926FDFFE9F54AAB52F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\0becf7df.json",
+        "Hash":  "3557BAC6B86E88E7607209450052FEC248F05D98B5E93A9827DD45F0A2980724"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\0c786b71.json",
+        "Hash":  "18FCF19FAA52B4F8FD063A5565E1B54E0C6EC3445EC7D92A541CB4AD1338C6AA"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\0c9aba6e.json",
+        "Hash":  "00182D82608995279BAD6FC408AEFDBB00E5A21F84594ABC12441180887DF3DB"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\0d87d2a6.json",
+        "Hash":  "BDC05A8238E953D23B3AAC1683ADA9CAA9A1A30F53A62F550001C751BAC89FF4"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\0e671a1a.json",
+        "Hash":  "C622836B01B32A1C23D6A8A8F3A40601EEC276438AB5ED74F03712F02251A42A"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\0f63c0b9.json",
+        "Hash":  "529A7871757DC9865DDE3CE3ADCF98764DEE598D1296A53FCE5D11B15E5A085F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\103eff5b.json",
+        "Hash":  "C44A25A3E39A8D72A25238D27B14D3DCDF52BC7EA6028AF36875F2B9FF2540B0"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\11e1fe23.json",
+        "Hash":  "D6329D62BBD4BDF3941C454E669FC87B2FAD0D95FEF09E3C587D52F059EC4759"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\12422b43.json",
+        "Hash":  "123B556BFBB3C8CF8E80FA52EE7E30266EC442219CEA3F9C53B1D0EF5818CDCE"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\12997ef3.json",
+        "Hash":  "317F1F278135213967D5D8DAA78D699307C2DFFCDDD7B9D38983130A3FB665D6"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\12eac192.json",
+        "Hash":  "E959483EE68643A40696F33C7129B912DC55D8C5FC3305678B271F27FC2033CC"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\136b0064.json",
+        "Hash":  "2E5187545ED0E1BE13A5586A1DA47D365BB79F5570018FD69913EEE1F6B1085D"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\13713586.json",
+        "Hash":  "229A87F5C41756CF5ECAB43F79B37D05188CC3E9A0FD193F18D554E4FB5FCE70"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\137f0df0.json",
+        "Hash":  "C876A4932EF8CB0224FBD5A1B755B4A705E859A298E306697D98CC9372A748C2"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\140c817e.json",
+        "Hash":  "FBA53DAF9083D19165E30CBA9B369DFF17A4D4194663E4FE5E0E87C3D6DAD94C"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\14754a24.json",
+        "Hash":  "DC5417578825376064F241C58170396E8BC7C02F6B28A26070CC2297C013F41F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\15113be4.json",
+        "Hash":  "E1CA9D634B73FB316E07514E4EAE5281EC3A715F088F3F828BD82A0C1308D163"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\15663ba9.json",
+        "Hash":  "F1EF55E071BD5FA9A7BDF1A49A8C2A4DBEEE27AFC469F993EADC1BABE394210A"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\15696249.json",
+        "Hash":  "62306C2FCE28BFF1E9BA7CEDF53801DE8F153053D442BC1078C740AECCD40437"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\16b78196.json",
+        "Hash":  "4DFECD9F417848CC73904B617063C607E63D7EE27CE0ADC62E1B6391529CD374"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\17b80ad2.json",
+        "Hash":  "696D549052311CE00DCE067CBA79DE46AF7CF8F4035E8AF55F8846B31C6AF2A3"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\17cae0c1.json",
+        "Hash":  "AEFEB8F9408E15E73A37A109DA4DA0AE2FB3453657654097DEEA3C129F399EDF"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\18419cfa.json",
+        "Hash":  "34470D1348B8472919CFE977F674DB7098DA41C90CEAA138F26933E5BD6724A3"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\184a9768.json",
+        "Hash":  "11A6C705C8C95324A29E6CF34555F7F4BAE3F7030932EB5C5E825EABD7097582"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\195ba7dc.json",
+        "Hash":  "D5182A4E7DA7E285FD49678BD2A373766759FF4C23AD3694186AE31CE739D842"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\1990f7a8.json",
+        "Hash":  "3A595ACA85C423E6B379FBEC8B6B8E303DCD3102325E97EF57568F2ECD42407A"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\19bb5feb.json",
+        "Hash":  "F8E25743BB905AEE6B841AC6F97AF01D3DD3AD3807AE935706CB0EF59F1ED83C"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\1a2e2828.json",
+        "Hash":  "EBEBF12A0DD7C79D6998CE7AFC4284E512FC18DC3467B38BD2FC810E0A3E518D"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\1a6449f1.json",
+        "Hash":  "01457744F973FF42843118ECF5C4538362B3E2430C598B65A6BF253D3B517073"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\1acc24af.json",
+        "Hash":  "953DC276A144DF9AD17009B4823D7C4DA70275F40C902BFE453CDE4653B074BE"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\1c02dbbe.json",
+        "Hash":  "33952C4935517E373C49C2C7151FB2DB277BC101CE8A49D15456BC772DA99D69"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\1c0d0a4b.json",
+        "Hash":  "1FFD8F6C95AED3A76A796AFD73B3A1E95F4A88830D9FDF81F91F038CFEDFA376"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\1c56ad9f.json",
+        "Hash":  "AD1E286F1008860EE1EECC24860EFEF44BE9B7ACBA80B6BE20B7C10A83BA220B"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\1d0a4b61.json",
+        "Hash":  "961ABD1DF09BD1082F8C881744D85C94F24285F2AE42BF849B0D31BE74AE77F4"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\1d398264.json",
+        "Hash":  "928544832030BB3B5DE6B1C20DF7C4667F840496289AF2128A13A9B677DCA75A"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\1da012fc.json",
+        "Hash":  "AA8013176EB83D1DCAF3989F70EAB122751901ACC4417051DEA14F96D213337D"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\1e81d6f9.json",
+        "Hash":  "6D7096B096B1BE8D4D98B7EA8BE20F9467393DB49F0F989603E58F2F0431FF68"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\1e97544e.json",
+        "Hash":  "642600DB1B3BD617ADC2ECCE2505E8ADDDD4D944FD348189C1DDC88591767088"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\2037f2c7.json",
+        "Hash":  "79F3B6B51C43ECBC75F9FF22184EA115992A0D48ABD7A6FEC0FC4F9D1F81BD78"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\2072aba6.json",
+        "Hash":  "633432BFD6EC7AEBC5D454D6490C69D80A976C04FA63C00495EB931C534E0423"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\20818e16.json",
+        "Hash":  "06601C128117D03BBFD5F875F11224A7B13CED20C4470767AB39DEA008ADDB3D"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\20981f0e.json",
+        "Hash":  "F3710B25BCC7BEDDF4E3AE64A85A37E9C00C9FC076DB4FC82D6283D29E0AAFA7"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\212895b5.json",
+        "Hash":  "DD74D74A7EC9B2D37950C108AF7CE733C27ABA92EBAECE0DF75DDCDB504B4B27"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\21f83797.json",
+        "Hash":  "ADE5FD69962B0B693E2D78B9CA83DEB9E6C8B43287A9D9CA68CE563074B6654F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\22a4bbc2.json",
+        "Hash":  "06EE349DFEA55AA639C480AE74E723FBF0D9CDC10159378829E0BB930565BAE6"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\25094a63.json",
+        "Hash":  "F53F272663786FE2852634D22AAA0276F2C18BED5CB01F1FB91FB7079E8C0291"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\2546ccf6.json",
+        "Hash":  "F25BA70A7516BD525335BAECE2106EBD88EDA14AAA896559C168C24C2E0FF58D"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\256b0a75.json",
+        "Hash":  "75487915B607BA4A839B72F2F81CBBBBB6DD9F0C20434A36B796D4DF1E592AFF"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\2685904e.json",
+        "Hash":  "AE083DBA2862290938055726492504513FC848EB2B90D7EB075DA1577F4659DC"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\2697da3f.json",
+        "Hash":  "F2D569309B10771B05C19435E004270F9B65E1F87B51A937B95DB9D4BC381E99"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\2753e76c.json",
+        "Hash":  "A29E0F5063D225BA9135565B8B42F9A23BDA00BA36E547769329D42AB864E257"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\27a77e38.json",
+        "Hash":  "CA2D60140BE312BE484673DD95EA58BFEE246838B3317ADFE0521B8EA3AA5849"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\27f8ce4f.json",
+        "Hash":  "4B5EF66DFB7A0A73715BC8EE2A59C3A8E96817366016DFC4D6A14133D2421096"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\281123b4.json",
+        "Hash":  "B7039691116AF9DE39D9C3CD47739AB4E092C73474779AB3B33C07B8A7A858F2"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\292dd178.json",
+        "Hash":  "EA0AFF180E7B5064C843174E716C3F4D2FA1AA5BD4CE0CDAB5AED176585039F9"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\29700607.json",
+        "Hash":  "1DCFCDA5CDEBBFF90BE3000E36570D25CE4E0E91DBD0564AECB1093ACDAD1F0F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\2a5f8217.json",
+        "Hash":  "2D9E711585E98CD3A2EF0B3823DDE5AEB34C948ADE3E9B96EF20142D11CEE5EE"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\2b01abd0.json",
+        "Hash":  "E200A318F815DEAC8ACB48E1CBD6D7981154DAD54BD7DB3FE8FBEB410AF11730"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\2c0b0aff.json",
+        "Hash":  "39A7FFAEC2A47030F09E83631C4E9359E48302608C40F847ADCC8C5688DDDB2B"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\2c737e39.json",
+        "Hash":  "8D0CD0E387C4DBFCF784C96A7D12F264340B829CC36F07F32F0287E82EC04916"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\2f0c5170.json",
+        "Hash":  "51137F330BA9640D7B5C8F1DB7908E0DE563BA3FDD285ECAA8538AB92B43850B"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\310f3251.json",
+        "Hash":  "A3B4F71C4331C28C9669569888011716403D9618C8A217C977C08F4683EA9E9D"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\3194b014.json",
+        "Hash":  "082716ECB0E845B8BB05E159F637F748323DD4D8D32F28CA7C554F293F2DF33F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\319f2597.json",
+        "Hash":  "054E84D614E36D3744F9F1061E90484258B2B5C6C5CA1AECE0C5CF60850B70BA"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\31adaf00.json",
+        "Hash":  "083E03E2C1409C41BDB09FFD684C6811A93879737919B5C4DC1AE0D3F1CA948F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\31d5ba1a.json",
+        "Hash":  "900590C53307A617898D428C968CB6DE63DB42EB1E5F1A98B58CE8E314D551D6"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\32e9702f.json",
+        "Hash":  "45E3AD2867CA55193310DCD37CE5EA7D1CEF05C2C5F2FF1950CE2C188C5FFD47"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\332efdb3.json",
+        "Hash":  "3727C3C4FFADF867360396396190B8C623E502E14C003D0098D31349C695F91E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\3391f8c0.json",
+        "Hash":  "195C97A2952CB0A95176541A782E0C14A54EFCA92A403E7CF7367FA93A257895"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\33b52de3.json",
+        "Hash":  "770C9C2B97960A9AB781D4548F80010A26AFF09A74F6D0E955817922388FF52B"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\3490cc26.json",
+        "Hash":  "7562F2B7EE8EC42B4B34F30288E7724FA3FE2E212BBE53078FBA431713D4B1F2"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\34b99a2b.json",
+        "Hash":  "8FA207F8A00021D5C1E541452F7629976F824B85C1763BCB3910D1BDCA795411"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\351d6448.json",
+        "Hash":  "BF1872BD0DD62667D4953F0086F3C5A958C35E2756FBC173FCA769CF2E1FD2B7"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\358ba94e.json",
+        "Hash":  "D66A2A2304BD0C7F8594C0300C146646435977D4F46ED3CB0ABAFF632B2B556E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\37d3e8b2.json",
+        "Hash":  "FBAF68F5FB8F53FA75AAAA378780D9CC29121FA9DD3BA39996471CD402C36911"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\3979b1a8.json",
+        "Hash":  "3A9A293B7E2A21C88A427F8E33CDC40DB809F8CC55D3BFDA48E1DC30F9DEF255"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\3a301edc.json",
+        "Hash":  "0C59A3C6BDAA86D1800E7B69994D4AE74B1E74BCB6FA53DDCF9B8CB2DF12A2A4"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\3b4c2228.json",
+        "Hash":  "77576316A06D9878AE75D403247D10B0E066C9F439463D15D322D2A346D8BCAF"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\3d31c5b3.json",
+        "Hash":  "CA5351C22807225D33AE0329EF3FB9A055406BAB06329FA3B0F9DB32B6261E4E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\3ed85e70.json",
+        "Hash":  "C83025CF20B8E2AA07F5E4554DFBB85CAFB250361361A2F231F60A428B879400"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\3ee1011a.json",
+        "Hash":  "9E95CD886A6FFF81E0683480AFBFDBEF3D518A4EAE4459FDC5A597BFD133757E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\3f23242b.json",
+        "Hash":  "C84D63EF7FE2FA99D44FB53246D45AFAC2989390CC8B755CA047C7F881A11839"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\40f6cd08.json",
+        "Hash":  "5C8935CB39229D7D386CD753C373EF860D1DC0F74D136C3C454CC9F2D0E8AE3C"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\414297c0.json",
+        "Hash":  "C31B4AAB092B7DD09BF6771B24E74DFCB8D268C80CDEE91AB0097C5123A27CEC"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\423a55dc.json",
+        "Hash":  "F0F3060368CA260D362EA8AC32A41701F773D11ED5925ABF9606659A6954DA24"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\42918530.json",
+        "Hash":  "E9DA00EBDB05BD04C3B73267DB2CD407EE312F75129BD0A08DEEA0B7918AF76E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\42a15761.json",
+        "Hash":  "A9075578D7259D9CAC5C8FA70FC72A629356ECDA0217FA49570FE9311A97D7AF"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\4364c1c4.json",
+        "Hash":  "B75A4931B6881814EC32A0F0861BC10F9151FB7F095DC581F772EFE01363A73F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\456873bc.json",
+        "Hash":  "18C1D1963EE6B2B7F5FCE9BB8BB6E7F57BD45A40635E23DB5F8FD226A351BEA5"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\45737921.json",
+        "Hash":  "C0A3FD768E9E9AA2242B209992C4AE372D28D4CCEEA99F0232C9F79DEC461FF3"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\45bbe264.json",
+        "Hash":  "60C1A48349995F849E4B24D8458BE141B10EEF6CC1066EE1685C59BC7915EA38"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\477d2879.json",
+        "Hash":  "3A3C84C1E2CDC9028C72A6BB8A904B1195751CF3534206BD59A143EA4FE7EFE2"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\47996f11.json",
+        "Hash":  "43F19BD74580C906E7EC26112014B921726A2DC2BD4E6DC92E3189DD42219CB3"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\48131b3c.json",
+        "Hash":  "9AB1A47CAFA6E15F7B09471102E55918F829FB59F0C4AD72D1DA2093DA35F08C"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\4852f2fa.json",
+        "Hash":  "05145EC083ED622FD0C04AB6DE66A4E64731B1BE9E470CE011E401DAD00A79E8"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\48f8583b.json",
+        "Hash":  "5A7897613225AD3CC978B33BBB3474E6519D96364F85FD62FD838ED74A87916D"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\4aab4007.json",
+        "Hash":  "AC260E30419810327778B5C943175583AB8D54D326E0B38C57D3EF8AB8DCFD48"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\4acc7107.json",
+        "Hash":  "D89A1C6718B84E505839D64494FCD71AFAA35EBC428802689274C8B8FB3FA2DB"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\4b6b68e5.json",
+        "Hash":  "83D91323F9BBF09531FA5CF84976402C3DA5BD6A4933700AAD3EEE8E3CFE87E4"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\4c177718.json",
+        "Hash":  "0BA78C15A894850FB5EB5821CB56B6D3C6DEC8BCA8DDAD47E01F18F1CE412D50"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\4cd1b7b2.json",
+        "Hash":  "DA30D77F134331857FCEA28D0290CFCCDEA61FA4918790FE86FDFD1C4A066E6B"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\4e45f183.json",
+        "Hash":  "D709E9AAC969751CFAF77641AEEFBC63BD9B652BB4064506368241FE419B2B00"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\4e469f39.json",
+        "Hash":  "029231BA2AEAF1F1918AB0C4AF5711B4DE27E0787FFEAC5A2415CD38EF84477D"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\4f537728.json",
+        "Hash":  "E5429EED478D212510A3967196334FA72B292C2617E8009AFE7E04B05D167C50"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\4ff4c9da.json",
+        "Hash":  "7EDCBA94D8D19995A2EA75E43AB0D6FB0C544DF5F72CD8880F7639B4E3E06994"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\505fff84.json",
+        "Hash":  "D2EC53867A92AE86F9AC59A2AE4D962D6930BEC38DD935000F2E3CD3A8F012F8"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\506d28a5.json",
+        "Hash":  "6DCD9BEAFD48E051B5F1E569C8109DBC1ED958D4A78C4B3B0BED421B28840C08"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\50a16a69.json",
+        "Hash":  "0026A3A12B2C87AE07376175D28688D1B74CB0D32A6DC0FDABEB5EB71F0A89A0"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\50aad11f.json",
+        "Hash":  "52E227854BE00A59084DB4492D7FAA4AB594FF454D7BE58F92CFD6296F628E06"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\50f325b5.json",
+        "Hash":  "78810845AEA65FBD52B01E702138CA3EC6A103EA3143E5F915D56773D02F38C3"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\516b51b7.json",
+        "Hash":  "B6046F684DE484C3D393D52BD6E809CB1D9F8F9C5698323250F5830DDEAF805E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\5207a7b5.json",
+        "Hash":  "51819C5D843CB91326E95795D589B1E8B00BACB04864E0D647043893071586D7"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\5289ad53.json",
+        "Hash":  "6612435F81E8C3733389A23D6DBEF8C3A8FA8CDA7C14CE9738050394C31BA540"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\52fd389e.json",
+        "Hash":  "8CD72B111418CAB13F1DFFDC7C2BB03C1DDE2636E372AF3100C19E3D246BFF38"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\54db823b.json",
+        "Hash":  "E1A5BA17D84238621D7D12029FE0763321D5CEB4D110846CDD8E79191454F901"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\55059096.json",
+        "Hash":  "5576C39E6A138C36DC2EB18FC1F7EA3AFDB421DCCED91CDAAB216B0943680ECC"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\551d5bf1.json",
+        "Hash":  "6FAC7BF45B1E10BC485AF028B57AD95D20A95395D429D81CC87EDBC09C9BDBDB"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\55783887.json",
+        "Hash":  "75D7A3A74941C2C755E267A1C26F0272E550BD3FFE89164D85BD6CE6D071C7B6"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\575b1a71.json",
+        "Hash":  "C046475B2471FB9176D17784D533DB2FF67FFF25ACB2574AD74D51724D4B9499"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\5783df64.json",
+        "Hash":  "51E1AAA31E699BDC1BA7AB62A46ADB57278A6CF76071994DB1E3ABB08F76C67B"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\5833af48.json",
+        "Hash":  "419E3CBACAFA522EE1B3B4ADFB6BD52E402779253791C538D9F0FB1FCE25D57C"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\58743b76.json",
+        "Hash":  "A135742995B0A43CD25EBF23CBFDCBC9930B710BE9DAF1F056EF1358109F96B4"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\58e15b12.json",
+        "Hash":  "CC65B6293D9F58895B4948FDEA7667216F2D16CDC84F6E01624302007D1795A0"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\59341089.json",
+        "Hash":  "A5F9D72371B375C2474A2CBDF34BB8CB764A02D95AB3BA9637FEAF55330CBC54"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\5a5a2103.json",
+        "Hash":  "69AD1641B39F26EB95B72298FAEC13E2CD41B91750E0D30806495CBAB9A8BDB0"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\5af49b42.json",
+        "Hash":  "018E3FA84EF963D702083877684E6A357BBAA1046FDCD2D1014CAB63BFA07CB2"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\5b526a93.json",
+        "Hash":  "64D2A0DDBC11C142549B7B2D0E8CADA857302E7463CE646E25B56EF39B33DE25"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\5b692c0f.json",
+        "Hash":  "F15C40CE4DE81EB2AEC28399C3F18FA5D7242AF781ABE80EACC3342C56E46233"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\5b6cbef5.json",
+        "Hash":  "84ACFB2F33F7C16BB6EA1BCD285047CBF3E2DE8DFAD9806D0232210FC825AF29"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\5d2a5c43.json",
+        "Hash":  "B5778564A736E412CA97C4BBA86842D688C962BE3011FA7DF48841A48EFA1DC6"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\5ffb2104.json",
+        "Hash":  "A56E62C2375EFE04667394B6C69796453F2C955BFEB0DA2DB05FC5AD3533553F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\604001fa.json",
+        "Hash":  "F05F42D22EDBF1E85792E6A7E097FA9D6765F22DCE059B034BD1E52AD3B647D6"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\60a26a3e.json",
+        "Hash":  "4C43822122BAF999217558EE4D028BB051FC70BC47304E085092CEA452644888"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\60c09cac.json",
+        "Hash":  "F1A6D4AE6306AB0CA7E269A0EC2B13E1F705EF38FCC04D089B2C801F5C006F1E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\626c0bcc.json",
+        "Hash":  "57609E3887FE4735FE8C0A396FB1F08B141D8A67629DCBCF8246CF869570E37F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\62ab2642.json",
+        "Hash":  "F393771051932104CF4197E7FA23CEF0BCA98563601F370A78F3DCBE2DEB8EA5"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\62b74c02.json",
+        "Hash":  "269E64F92D53F6C39364B7B14E18127ABB5880D3433E6DCA514BB33D803ADCBC"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\639f5a19.json",
+        "Hash":  "5FCE50480AACF0B615181C82695DC7B0A39E7C9437FEB8FFCF95D2145DAA91A0"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\642248e4.json",
+        "Hash":  "7C6B1BCA5E1FB2484FDE9D566D97507D56734A14C7484DA64472FCDDDB8C2483"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\642d658d.json",
+        "Hash":  "8FFC5B84C8EAEA19104DA16B5E4F407893A0293E3A1B1572DCC3602F68907441"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\64a7c07e.json",
+        "Hash":  "437420F5410C41569B8F740BA26F04534F7ECA037C1109683FFD192B6360DAD8"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\66e6c45b.json",
+        "Hash":  "8F12D4CBE3486626E9F8A783402BCE7210084CCCDAA9DA11350822C5107E84D9"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\66f2d22f.json",
+        "Hash":  "1F1ED8A10A2818A9B13F28779F150134B8AB61497985F07B9F15F5F7534F8150"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\67636eac.json",
+        "Hash":  "F462091E57A42EEB1EAEF565ACF6B9ABD75450799F895B9B8C2D0F6D15AD50B3"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\67b4a34d.json",
+        "Hash":  "F62D586B96F47355BD93E906A2F6F479B2F15F143055168333961C69D249C53F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\67c52801.json",
+        "Hash":  "6BEAD6AC195297AF855C3BBDE8BBCEB8B9A6D295F341D96EDB4236F1A2DF7BFF"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\68b67ca3.json",
+        "Hash":  "089472709FFB8FCC0B5CD3DE285D4944DC59DEECC19D0480A0238E897EC30E56"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\692cd3b6.json",
+        "Hash":  "7916E6610C4964CD27F1E80994CA7FF875A1A11E14D20B84C30034CFAAD1502C"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\695367ec.json",
+        "Hash":  "3120EA332EFA97CAA6C2227617495AB225DC5A644561431DED488E4BE8D48151"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\696d4842.json",
+        "Hash":  "25CA7BE81AAEE644AF0433685AD33890B8D194A822E12BBE21612BFAA2A9A99F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\69889d6e.json",
+        "Hash":  "88465072315BF85E3BB419194D4006B5EDB5D5D245CF3FDBC62DEB6ED4DA71D3"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\6a11f6da.json",
+        "Hash":  "0C481C8259A7354F433DC0E2DB17958CA4E96A68F83D53D762478D0302F8B6AF"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\6ad5bdfd.json",
+        "Hash":  "E8873C081F646D8C79AE8CE9F4F276DDE4C3C2FB10CD2637E498269193BA5A6A"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\6df30ad6.json",
+        "Hash":  "92CDA50567CD39A4B4990D4C84C033CF662A84A60A0C593F1B9DEB96D9530A91"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\6ea4a07e.json",
+        "Hash":  "FE6091B4B45743F2DB3C11F0C929A9CB6B3711E07980C8891324CA2B09DB7C30"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\6f473927.json",
+        "Hash":  "E2E618106CD7A1436F66B070928977F38B581D98A1775331872310A4F456FF01"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\7039b2d7.json",
+        "Hash":  "89AF854C4A5BB5711BB1926A3DCE23AF9A2E263B36503E868F7CC556B9A0A47F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\705a3229.json",
+        "Hash":  "7883663975A01E7DB1762184B73FA54347FD2A20125C54823D96240D27D494A8"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\712bf12e.json",
+        "Hash":  "AAB16D6F103C6C592B9C79C9C8042871EF5CBC5549D9D4714C7791F1948CFED7"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\72207abc.json",
+        "Hash":  "B1916E78533D6BB4D09FAADB8ED6E39C35D89C869E9DC5BBBEF310F1262E6590"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\72a961c9.json",
+        "Hash":  "123D695C37F8F2F784ECA3E7C13C13AF4310E3BB67EFCD901A48C1647AFE9D98"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\73182012.json",
+        "Hash":  "FE6B3657D9B5C2CF975CF4D390E4C4344FA279055B5E4AA01147C056D8BCCE2B"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\73c3b0d8.json",
+        "Hash":  "72D8BB6545D8A510EB2625202D485A95F80A1FF1BE9B0394C9A8EFE6E9EC6A1B"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\73ccf9c2.json",
+        "Hash":  "0EB30765580275E68836BD28B0E6D05ECB7CFCA47E605D310BACEF28961D85E9"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\759f3fd3.json",
+        "Hash":  "A60475232FBAFB5BF30C2F3B461DBB1C6EF3B786464C6601A226BD664BC2DF81"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\762cd429.json",
+        "Hash":  "FD91F76608837E22FCB834A35A31F27B6E9EEE842941F1F0530E6514754C2638"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\770cc55f.json",
+        "Hash":  "4AFED6F20DF02883C17503632B9DADD8EF2D5516D661031656DF23F7BB949C7C"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\782b5218.json",
+        "Hash":  "D33F5FBAF5B2552EEA256D2AFCE6A56BBEF4CA0720B86CD4BA26A7D9871E1306"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\79369cc6.json",
+        "Hash":  "D5ED110D3CBD23F7FD1DC31324E399CD735D79A523E3EA937400300EB133C4B0"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\7953d61e.json",
+        "Hash":  "499B8C0B6DA357D4C0E05919766BA5BD694743B3D042CD0663DFAA41E8A5A975"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\79fb03f4.json",
+        "Hash":  "31D2A8A25645D3BC0E1C0A29F75CD9DADB3A62035FD3AABAB8BCC9DB2F7B2B69"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\7bb29440.json",
+        "Hash":  "772F21A4FEA56D856B90878666DA0EAD35B1764819BB3F2D63A79E3315CC4CCF"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\7c8af763.json",
+        "Hash":  "B36F96F91119CA7A46B7A283A82FEE109158780FE6FFB949B9CEE05F95317F45"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\7c9b52a0.json",
+        "Hash":  "0A0CC2408D190DF3B37434E2FC4BDE410F0761571FDC591BFDC162A5ED77122B"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\7d18a6fb.json",
+        "Hash":  "D8D8CEE723E886739E4F32438B25FB7EEE54DB8D4E28636CFD8A20324AABA02F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\7d1f7ee8.json",
+        "Hash":  "8301044FCD3FCE52B1C37F5CA27F4D00359CC883D70E0AAA3C2E6D5007F96A6D"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\7d419a02.json",
+        "Hash":  "7A5B0CDD9AA34628B34F932680283040BC132284BD130F134C1338977C57402D"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\7e02026e.json",
+        "Hash":  "B7D4885566AE2C9DC24CC6DD3BF3A4AD769B109BA6249EED887298F87E49DFF3"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\7ee1c6ea.json",
+        "Hash":  "C5BA138BBFEB087118C600E34CD2F5B357E1FFA466D85269E480B6F1C485D300"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\817e6c09.json",
+        "Hash":  "60869250470330857D541ACCD98EDC67EBBDD25BBA290F48E854810495B25248"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\81c0276b.json",
+        "Hash":  "08FB04D687FF6E55A94B0113B44111F1B8D9BF6C1E73B37465341AED80D56917"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\833dafe3.json",
+        "Hash":  "622644C1D64D915CF823E1A90BC3EF0C7EC63864C68D47B31EC9BB9229EC16E0"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\845d6e51.json",
+        "Hash":  "5A9DCE4ECE3B4B4D36FA627F5D0E869F4A8998C53C644926AF75EA587DB952C4"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\84db8fc4.json",
+        "Hash":  "ED63F9907445EB24FFC9F490318890436B1BA356050C29E2BF01CB699B3C637C"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\84f2aca1.json",
+        "Hash":  "5913481D8E45D13BD3091C72A9519FB6FE0C6AAE442EAE9F81F5218EF21A7BA4"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\8597cfd7.json",
+        "Hash":  "00EA6AC6593D8859712C24FD6B08E20211D62CDC6F5A5E7918DB3EDC5D19EEA8"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\85b81ff1.json",
+        "Hash":  "09463EF28A73A46D5D3CADBFC3BA56819B90204C9701F6A4DFEEB16F2E26FB68"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\85fa5666.json",
+        "Hash":  "64AC619ADA08B58D32223B6972CD3821EC1667EF114AE1AE7B06577F222E1D7F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\8719f442.json",
+        "Hash":  "72EDD8C024048470ED3247D45FBEB3DEFC28BA856DB5E9668649DF1CB9FB02D8"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\88207623.json",
+        "Hash":  "9BFAE66CAA24454D8636A5331A16C2ACA2781227202B0222878F4A06B599B916"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\891232d6.json",
+        "Hash":  "C5331453D814522EF81DB4CFD5970C081E8BA3B815FFF21F58F32A515BABE292"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\896d5239.json",
+        "Hash":  "125BEE979B47B68B3BEC846782233392301A79110B36AF0E9FC32615AC5D2E01"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\8a371977.json",
+        "Hash":  "5421C4F7C1D9433DC6AB2941C84084AD41DE83BEAFDFC316AF59646E2776F82B"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\8b28cd80.json",
+        "Hash":  "A08AAD2725172DD9B24E282CDAB5649F96E68CE60E9206F79A8A8497668C2108"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\8ba14f53.json",
+        "Hash":  "F3B0680719E8A644D97F98EF18B7F4E098929EB82E263F6F65E01C824133E978"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\8cb8642d.json",
+        "Hash":  "185485F5DBBAD0033B334C26822C5D592F9A3A6B41ABF378EDC9F6D4AB516AF2"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\8dae5dfc.json",
+        "Hash":  "3A2C251DC3C8837D194972486257AC36C60D6218E62279D5D95A767BDE0F38C2"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\8e2edd66.json",
+        "Hash":  "0E1743D625E96FEAA1381CA2AD71CED68FF6C847A3E6F8E1E6B4C5B6376272EA"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\8ee62060.json",
+        "Hash":  "244F16169AEECC8E3047F7F94269D299F7F67990E77134203A169FB583449A9B"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\8fbca751.json",
+        "Hash":  "F31E20BFFF5D9AB60B152212F5F2509D9BCEF885F963B8855166F7902FA2BF6E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\90347967.json",
+        "Hash":  "DECA0A92152DE275C1E0580EDAAABE2B0200AC4A489F3478B963FD1D324FA450"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\903d1b4a.json",
+        "Hash":  "C63B041CC26FB62DE2993E2FBFE679FD8ABFFA638B762BFBB3A34538B8EA9F84"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\9110e3c5.json",
+        "Hash":  "FDAEE4A2A00511CC4E3A24886E03D6DA9307F97E5B21A828D37D5AE1B7A315C0"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\917bccba.json",
+        "Hash":  "9A4AF22D594FDC8F4E17F7EA9818B5504286C8836DF57C12E4A41A947A4F4201"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\929ab4e9.json",
+        "Hash":  "A3E506B7DFF27140B7628A688F8983E5EFF8597E5239D1B6CE2AB023A082B2AF"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\92e50de0.json",
+        "Hash":  "4B53A4CE6C14722304E862E58FCD98CB54D3BBE46FFC58F7F54C4C4549302D68"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\9356391f.json",
+        "Hash":  "A8706066F78D0A6CF6BE99BE2B20DC6AFA0B7052AF0B9F8A32FBF9E0995F98D0"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\93b4f4b3.json",
+        "Hash":  "E556B454AB7CE2B52F15AA2F8B8D9862101939D2FB3C1FAEA73D2855B1A90961"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\93c31fbe.json",
+        "Hash":  "D15687A59F1D8DD5939524D121732CFD6742FFFC69E5F38F86B15D6F0C83DEF9"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\94133066.json",
+        "Hash":  "A93E46E33D9F5DBAA9BD707B74454A4686837E62483EA97D42A817EB4580C1B7"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\94414823.json",
+        "Hash":  "78E4B03E8E6AD307C3FADF33290B170A0415317FAE0FC1DDAD2501505569CC92"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\94be5b80.json",
+        "Hash":  "CB8B285ED00AAE1D83BC34E905F0BD106299EE60332BB3765E2B76FF175C7525"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\95a58926.json",
+        "Hash":  "DF98ADCB3F848A1C07960CC55FBE94CDAA328514A2A2BAEBD708ED774F5AD3E3"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\963f59bc.json",
+        "Hash":  "D321EAC8E24AD8268C02F8DA7341D7D0D16B229CB8718D35024EF1B87531A60D"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\96a8c0cd.json",
+        "Hash":  "163BB9E0830F59F6E71F13F30C89B1F72B33BE4F6600341A00F29A32B8B204BA"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\97239e3d.json",
+        "Hash":  "A5E1DB7117A6D73620F31643F69D4C9DEA063CCD4B4E57BD9897A3ECC67E33AB"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\9772c176.json",
+        "Hash":  "DCA2F7D0F8F83337246C2F7D9E32D27C58FA5E61616588288F4C75706F7E2CAF"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\981571dc.json",
+        "Hash":  "E7325D7DFA8C536639C830AC46B8D3F04D7AC9ED703EEDA57DFCD3A375D9232D"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\992798f6.json",
+        "Hash":  "19D32C4B0AD634DC6536F566D8E546CD99838B47D853F8B6EB28C67BA08A0EE9"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\99306f82.json",
+        "Hash":  "6A47A576A4D1B29C186C1232EB5DA9F18E09D3722C5901C36FE0D92DA8F44552"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\9a4bb226.json",
+        "Hash":  "52448391E99FF5603460D43217BB49D8455C379B4076734BF2A7C39CC245C7F3"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\9b2a60aa.json",
+        "Hash":  "6F6BF05BDE38216A850D4CFDA43E4BAE47E4757EE58F6CA31AAB1A95DB7EDD57"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\9b365c51.json",
+        "Hash":  "6BA57299E66A5EBE692659E1720056BC9B4A620B8AC544FB3A34E9640D45F9DE"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\9b4c17c4.json",
+        "Hash":  "39E5284CB1F3DB4B79D3C3C8E94537BB92D127905853B063A813029877467DBE"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\9bebae7a.json",
+        "Hash":  "8BF90EB372EBBC9164F3528E98FD826FDB417815EFE6A45D86350E5FFAB06D06"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\9c1e755f.json",
+        "Hash":  "758D62008466D0A52660EC9D2448BA3AAC9DD78E68B897F9F0C9481E00ECDFF1"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\9c56f360.json",
+        "Hash":  "F897C3651E07888E54C6E305AD34FEBE7F19E82684C7BF50C0553F8A5CFB8F7E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\9caba7c3.json",
+        "Hash":  "585FAB812DFEA3ADD50A12C7438FE542B7E81C71ED8B12DE9E27AFB09393CD8A"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\9ddd00f0.json",
+        "Hash":  "7DDAEE427B8BB7C851114DEAD061046E6B2E8C008B1C9CA3C52CD219591D84A0"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\9def23fe.json",
+        "Hash":  "B3311E7530EFE302539630AD0F87FE0636C62FEF71762F87D929970DA0B4BD8E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\9f27f097.json",
+        "Hash":  "8516AC5A88E4944A31A78A5FA525B0A77A509EC896DCD33FCED72D6CE1A069EE"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\a04b2602.json",
+        "Hash":  "3AE41A3792189EC456EF88A9FAF7CE7C96A928FA1F8725610F88FA9E967E0617"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\a096bf4d.json",
+        "Hash":  "94A6CB6D5308EC1999498C6B4D6F9AF13F9183D8E4F3703E48B728D5B093105B"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\a3f84088.json",
+        "Hash":  "863B316542B2529F697D9D2AE3795030F39F7CA4A33ADBCD147EE878F281164F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\a406ac07.json",
+        "Hash":  "09E17440E4D996118FACEB3771F16F5D5896DF31257DDF7EF9F1E961D02BF494"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\a57f2f04.json",
+        "Hash":  "D1C14A2C238DD9B80D9C93D7CCA9EE4838A128D0FEE27C69F037AE64D6ACCDBD"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\a59b95c0.json",
+        "Hash":  "F3E6EB08C227AE885C432823F14B89526C72678F1464C391D5556697A0B6837D"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\a680ac02.json",
+        "Hash":  "26B534E4D9546FBBEF9290ED477DD853A11796A1A2A92AA27650ED49370BBBFC"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\a8610ef7.json",
+        "Hash":  "F5959C6B2358FD277DDFA32D7F61FBE1C8701B8307168A0C042C5CE83F8624DB"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\a934301b.json",
+        "Hash":  "83C6BAB6ED53638421266E394CD8F36E13B73E32CFB3EAA78A8D51C8AEC37CA0"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\aa18de87.json",
+        "Hash":  "49055EA0EEC211C4935EDA9C3BA431169F3C01BA6C5DF16B357CFED2D065D28A"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\aa300dc3.json",
+        "Hash":  "8EE49A3E8F554E398D598979955669A222337E288A137A26D340E3B7191630FF"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\aa4ec2a5.json",
+        "Hash":  "BCFF399A958F63B1697FF6EDA550A7B74EC67C270D2AAA2BC911905B049C3BF9"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\aab50785.json",
+        "Hash":  "A199EDF510266F51F2C8310CB9C76B509072A0049A8DE07124CA3942CE402F81"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\ac0c5833.json",
+        "Hash":  "81863003AA5C495414EE81784742ACC7186E608158BDE5EB451FA69901922FFE"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\ac2e8ecf.json",
+        "Hash":  "2F4C61462F87EE1BB54049D1B01C9E8D1264040D00CEEFAD43759A62454E079F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\ac3e2b04.json",
+        "Hash":  "E3136C529E317A5D351744690B115EC6DD881F99A64641A603977AB70AB80318"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\ac605cbb.json",
+        "Hash":  "3724BC7D047A030FBAD47F21094E988B50A7BA4969A95DB298695FAAAE59A8A5"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\ad7e01d0.json",
+        "Hash":  "918E0D759F298C680D782CDAA28B47BA5BB3FE4F26F812B7BA1A2EFCA62F1407"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\ae58858e.json",
+        "Hash":  "4EC5BFE32C92E06AF51522884479A7183557CFB9FFC10793BE934FFBF4BE2888"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\aee291af.json",
+        "Hash":  "96609BFCD7608532A18876168B8050FCB2ECD3E9980F4231F61CAE8303C886C1"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\af22c60d.json",
+        "Hash":  "0513AA84710B6FD8505BAAAB163DC39BEC21998A28277200521D114F45583C49"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\af24b4cc.json",
+        "Hash":  "D06705044A04ED6D40F561E828A90A1F70DDA4D9CD06D827E54C4497EDD539A4"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\b0722778.json",
+        "Hash":  "692697F4596DE52EA8D628415553588C36069F81F70D949089C5DE0B5FB621B8"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\b0f4d537.json",
+        "Hash":  "F816AD25E2F1E9A87F2754E619DF574560160D9FE8D309AB7C66E5C1A2B907B2"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\b15fca0b.json",
+        "Hash":  "61FE6D485465130BE0185D37183853F3CEE8E6A1B12ADD0047028AC4CBF9A08A"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\b1fc8b8e.json",
+        "Hash":  "CA2577B517DFB5C171803904D877D1BFA29C579EA763533D652D898CE5DBE77B"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\b20f7c8b.json",
+        "Hash":  "80BD25C9365F7AEAE8C356ED3D453AD41A132F0486AE4CF3A42F1627AC7B8DB7"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\b457fec5.json",
+        "Hash":  "B0C58DC047A2B8DE1273A888693885728BC290F2D1AC92DAF5818CB2F6D12FB6"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\b4a43f3b.json",
+        "Hash":  "048A8E475CCB16A71B67C2588B46C093906E70DF597C8CB61ECA9DAA1995A4F4"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\b7999b51.json",
+        "Hash":  "4C721DE2A19DB0671C83007E3AAEED73B2CDA6A2F52961FA992D5F2C46C0F052"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\b7cb93ac.json",
+        "Hash":  "9E6165C18FF900DB5379B7679FAB55B930C422E01974D6BD02B183633CA8C3B8"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\b7f8a4d8.json",
+        "Hash":  "C0FB43A1D3F357CB5104B536CEDAE981D6A391C1356259239B7CEE5F61A42275"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\b7fb29bc.json",
+        "Hash":  "E27B033025B1FF20494F334377FB49200DDB06772393AD7937EC9028A6702532"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\b942fd60.json",
+        "Hash":  "7617CA152CCA6B217E8F13CF94D6037D4FC1AB69C5A8A2823B10560D82EE6E5A"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\b9630600.json",
+        "Hash":  "C8CE2D6BB205623E04A676CD05727EB5F7334BA5B2EA595BDDACF46096564B86"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\ba9d41b8.json",
+        "Hash":  "E7C9ABE0550C686D3257670EA0F196CF6E324692A318C64B6A97A49A5A83F231"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\baf41dbf.json",
+        "Hash":  "7F47DC48D0E5EE6679B409B2A0EF10D017D3009F34EB1C13670DB53F6FA971EA"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\bb52a14b.json",
+        "Hash":  "A6928F53573A95D8653DC9B66E0E0B7FD12741199FFF091B7D69F2B11E60E903"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\bbb1b8b6.json",
+        "Hash":  "FAFC140EECF8CF325BBD425A325008ACEA104142FE00B0A67459532ACAA34BB7"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\bc4146bd.json",
+        "Hash":  "10D6B1E6802DDDA469D85A1666A2C5E27C332889A5083FD2F94ACC1AAC1C5976"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\bcb3040b.json",
+        "Hash":  "A7A4251A66F0824898E67EA3BA36ADFEE77F982B3E043E46C46F6DBE78B752B7"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\bd14c3bf.json",
+        "Hash":  "CC6080893B889E1CA653D1A51F40405D372101F58D9BB9875CC932E6CAAB1DDC"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\be03b35f.json",
+        "Hash":  "F9FD4DEC5CA1C42E3BA28E7DEC70C46F13BCEFEA89409189658DBDA0F8F1A388"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\bf32578f.json",
+        "Hash":  "335F9B539DF336B937FE246CE719207D49DD7A903A21A455BD1D20C2B3587C90"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\bf699163.json",
+        "Hash":  "7781D8875D3068A85612B260BED704E7980BBD837D9BA6516E5274795D36CEAE"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\bf89d739.json",
+        "Hash":  "31903A50428C1ED5636C51C9B565DA7BA34508BE22DBAB1D487BB6AB5C58F1D1"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\c074846d.json",
+        "Hash":  "6D0E0ABF56AE48F8E809F6FE94D1088DC9347C707CA720FA9A0FC8B6A45ABDF9"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\c1990cce.json",
+        "Hash":  "F0AF82F7B4B3E774D9C131E3377949EEA0CA52D10E4F4B529B010EE2A7E20F0F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\c3202e5a.json",
+        "Hash":  "11585C6539AA9D1F9C4E1C59A6248B0D7AB02518B2CB354CBF68AC880FB1E5CD"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\c35c1b4c.json",
+        "Hash":  "492CACDD13E882C3A2B55F7696889F0B26AE8135A761D3AAB57CA0CF3F1C55C6"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\c48954c1.json",
+        "Hash":  "8A52A1374264BDBFD1E5CA051B0AE84EF8DAEA5D4ED5B6BDC9610EDC5D4F90AF"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\c62e2108.json",
+        "Hash":  "AAA16D4A04C21F43404D96BFCA920432360C8C2E0499EA6364C422E88C6EAFBB"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\c64f1187.json",
+        "Hash":  "EA3040DD126C9754A220191C017EAF55A6E3AA5B647ADED8FA8A6935DF87BF6A"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\c658a4bd.json",
+        "Hash":  "BBE807C96A2FAD5ABBC546028C7823BBD9DB8230F8B69F9483A96C896F7E24AC"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\c663677b.json",
+        "Hash":  "C0F9C63449BBA23936057C4E3C5FA12FE507A2B13C1CC9BBAE47A7E5E8572B54"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\c6e1b8da.json",
+        "Hash":  "7EEED3840ECC21938DD92A27042F5BCF6D8982D787872307952377448CE4AE01"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\c7d4e6ad.json",
+        "Hash":  "EFDE72B500BDFEC5738F9211E81D4B8B0BA0F2CA7CDCD201D0B3A84890E9AC50"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\c87289bb.json",
+        "Hash":  "14C9D75A8469ED6E9445397ECDA99FC5BEA0E0936F8E43EA36360E13B4A68B4A"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\c8b7cc0f.json",
+        "Hash":  "8E8D2F0B83E274FF7A681E5BF351B0860109F8386B1DF72558D8A6D06F191632"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\c92b942c.json",
+        "Hash":  "83A0814470FF0080997373FA6ABF2BC3004A93D3198041F946B58C5E5AB39D60"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\c97c0139.json",
+        "Hash":  "AA60AB21E6BA037384B77F32B2699619A8C34E424072B1ADC93D8D5F5BC390E2"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\ca8de6ea.json",
+        "Hash":  "74D434735D5D9176798FC88EDA14619932E2EF982253DF414495F10A55B6DEA9"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\ca8f78db.json",
+        "Hash":  "1602A6697758810C56089D5D28556F5BE7EBAB760E29AEA25E54D56510618B03"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\cad67732.json",
+        "Hash":  "CFAC6ADEE00FE5A9173E3866B4C37C51B18DA5A14419DC43A9E7C02235006BF4"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\cb227835.json",
+        "Hash":  "D9E5CA8355E6938CC584AD9801672A523A7B4E65203AC7541F9B0EB40C7D1295"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\ccd554ac.json",
+        "Hash":  "F5F8026A97EF2C76BE51F1CC5761D5F0A2DAC880266D3E4ADA26114FFBD0C6F1"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\cd3c21df.json",
+        "Hash":  "48B871E4E3BABAD9F8FA6A9527E655F22EBA7BB3D265CE88647F4DA1C593D0AB"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\ce039d91.json",
+        "Hash":  "20BF2889C0F7A48D7B3D9C093B6B9283783840053BB90297B17275A895B14288"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\ce8d95cc.json",
+        "Hash":  "18FC2EB7CDF9A7FEA294B83B474703B49EBBDDBB56BC12166D440715586F362D"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\cf133acc.json",
+        "Hash":  "5BB315167EC011D4D0BF11BFB6CEF8ACA9CC18948410297B3052449C36BD8126"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\cfb2ce5a.json",
+        "Hash":  "49970BF78A1E8B4F10B6347BB58337FF5C266CE0AA7F77343D491C3AF736DD85"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\d017b73f.json",
+        "Hash":  "A04453A9F5B22B3A4F615D4B1E3BE442AAD04ED91F2A97B84694F9EF38F82AD8"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\d19f7514.json",
+        "Hash":  "91BA01C2E071314E37F1AA5C729C570CCF284D7BA17E478EFA3B52B7512872A3"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\d282b262.json",
+        "Hash":  "60711C23341D0E12D886D5CEA38F95A1A821884BCD32B635EA15378D4C866C8E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\d2acf2cb.json",
+        "Hash":  "785C6FFED06302D2D194A944F5E6612664CF3F5843687302DC32E55EEDF1B3DC"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\d304284e.json",
+        "Hash":  "12AB3643E4C48DDB9CC6B0AFCA417DA8E81CE878CDA4F5C26A5B37709FCB430B"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\d37a1ef5.json",
+        "Hash":  "7B6E1AD747D84F59A7E7749B6ACD9DC8307F86FE5C0C787C8110575E1449DE74"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\d47aa2ff.json",
+        "Hash":  "70E3D94458A5751B5B912E8E4CEFDBA24BA46E9F809F593862FFEDAA5A5C6FF1"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\d492a647.json",
+        "Hash":  "E3ADD0A06983BCA0EA163F70AEDE83DE4173D72CB2E30A52A1FBD3C9451ABF0A"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\d4b1c2b1.json",
+        "Hash":  "0CBB9F2CC576A55C01B16BDC2A2D407B35B8BA648E9BD1830859865A63147880"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\d4c90558.json",
+        "Hash":  "3CBF65FB6AE58C315D3347C1B5D000C975F5C05DAB1AE46BBB880C38EC44FC8E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\d56f2372.json",
+        "Hash":  "84F7FECF60D7C0F4AF7A78FF41D681E5B886B722E73FF22643F1186F590415E9"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\d5c634a2.json",
+        "Hash":  "2AE1D31AD2A8F6759EA7AF9EB734F3F3BE53CAD7EDC1D775B87D841B7796EAD5"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\d931c21c.json",
+        "Hash":  "B5662E2C91539104B54FD436C16FA8E36650E9C581FA7C4C38674523C2181897"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\d94c3b52.json",
+        "Hash":  "C9B57EE3AA9F081A6228C8B24249FA10E0B32D971C67EC467C4318A2185291F3"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\da2b0fe3.json",
+        "Hash":  "5ABFCD16D50CD3BD8BA3E9DFFC308468E4A0613D7DE18CC937FFCCE26F761C1B"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\da515329.json",
+        "Hash":  "6F5BD12E5C9BDA79176A9C855DF53293968F48BF326F15CA8917386D290DD114"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\dc2aa30b.json",
+        "Hash":  "2EFC180E1B13A5FD3CEE31672004F094882F995225CA06898D0A6C621E71E1EC"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\dc2e9a9d.json",
+        "Hash":  "44360CF88DA8B99415BAA2FBA919020A27A9F1FB5629195F62B300AEA26886A9"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\dd2401ed.json",
+        "Hash":  "FF77A42FE8C24C7770313F95A9C13CCAE182358E26F1C05B6288699B96981E19"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\de493100.json",
+        "Hash":  "679C5C4E69E2AA8C3B8C1C314BDF2CE8CD651584EA98F56687037B47F9541352"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\df8cc377.json",
+        "Hash":  "846DB029A5CA4A408701670160995B607EFE40B2762AD08E862BF53D1949895B"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\e0fb7511.json",
+        "Hash":  "FD0FE53C7845A592E750498D951BB10A820D237DF797569D56A5EC29794296A6"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\e133d23d.json",
+        "Hash":  "DFB5768ADFDBCFF6B578D2D289BFEE37D951A0526DBC29D46DF8F63BFD5124A1"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\e1baa8a4.json",
+        "Hash":  "3F2448F5C69425CF2B36F02EB8A7A3BC4105D71C8BA172B9872EC77005476807"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\e1d2900e.json",
+        "Hash":  "98DAA02315AC6EFE1F1CB273BFEE508C3758F806AAE4C69250B51334E8C47138"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\e2092e0c.json",
+        "Hash":  "AB080D017CA26F5A78583A0502A01492D229851690F934527A882474C9911174"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\e21a174a.json",
+        "Hash":  "210B7175DA8A3A8AFAB6C8583A5552C3BE0D6429B411FD4377A46942B8BF0FB7"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\e345f17b.json",
+        "Hash":  "7ABA96FC1D598F365053E4A809621751C46333FE8B435FCB937DDBAC295F5290"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\e4075551.json",
+        "Hash":  "B56384F4EC8D205D1981376BCFE95EAE95416AB83EB63AF2D167E6CF9653A013"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\e41c6fd3.json",
+        "Hash":  "68E1EF95D8B1683A63EE815EE5BB41D64FE79B912556910F9079C6B8B46681E2"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\e57337a4.json",
+        "Hash":  "395E3D72D5A58DCBB960F25B21D16239A6BFC7925F54DFC91722A26A6EF26FDE"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\e5790162.json",
+        "Hash":  "2B5833615E4692BA60CCBA427B6E03CCB822F889A38BC10BC43990C2351EAB86"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\e5c44e8f.json",
+        "Hash":  "05048F44FD5D0A19ADB9C113AEE87895D1AD4673C977DCEAA33990538AC80975"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\e619ca6e.json",
+        "Hash":  "DE10161A353338E0AC749DCC3A49E63E5DB13B5DA36A6ADEDA3AF773CA8EF5DB"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\e633a9e5.json",
+        "Hash":  "528A9F95A1CB7C9EDBD08370AFD2DC3A00B299464DC9C749DD4198B9B51C0E5B"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\e66aafb8.json",
+        "Hash":  "4ECF20DC702249C1E696E998120D59FC1BFF3DB234FE4B426705C075C6FFB9E7"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\e681b708.json",
+        "Hash":  "1947F5A731853800F741F3D4ED0467A72DE2F4818D97DB65AF5124EA594C8527"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\e69241bd.json",
+        "Hash":  "8DC1F2671AEE89AB9DA15032C3C3E60CC585882CBBBB1CFD747380C772027790"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\e6de6e8f.json",
+        "Hash":  "8D8D40911BE95BFD3E39DA329B5C15F2DA968293ADB22C7C8B5B3BD58756DA7F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\e74e1818.json",
+        "Hash":  "6C49F628932BFD2E46FCAC696D608C2DB04AB2ED27BA6C90E7F95BB7307BE89D"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\e760a62e.json",
+        "Hash":  "3CC3235383C7DEFC2ADE1A9D60430DFF9F4EB14D1AF5D7B1ED181A558C08B808"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\e7639916.json",
+        "Hash":  "570377357209F2057488C5A559FAFF5D76D48BFF5242A80C4C0948C8CB0A38D9"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\e78887d1.json",
+        "Hash":  "1166BA071AC17875AC4F218D262EA1272948CEC7A28DDB912758D847934C7CE5"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\e7a25a18.json",
+        "Hash":  "125ABFC8B5B261BB7E1227FAF06C981A68D835AC1826BB7F878ACDED57E7783F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\e7b06bea.json",
+        "Hash":  "8EFA39EA1BEA706DF37E975F21AFF7310D03EC39DC55E8373C2A1936111ECC4E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\e7dd8335.json",
+        "Hash":  "519ECFDAE363AB57EB86030EA7252DC594B4F0F3102588F214B20113050F0450"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\e872b94a.json",
+        "Hash":  "F2DDDA369ED8854E5B148170E9D605C2B2007696513B467C41F6E9ED51859541"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\e88171ec.json",
+        "Hash":  "656DAD6E7A28906780AD65A25802706FC085F5D039CDDCAF02B01F90160375A7"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\e95e3d8e.json",
+        "Hash":  "A4FCA950316CF1F1C403DD05933AAC99D30ED1126A726CB23E899B115CED7914"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\e99362f0.json",
+        "Hash":  "AA2E9A88AB55E3BE38777F0B5BC492D39D23FE5CEE09233CC3482CE6313CDD5A"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\e9ac8c9e.json",
+        "Hash":  "7499C4B9C67A3A170D3D1FCD7E4992C9D7506CFED7B946C7EBE203C75597495C"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\e9b4f6fc.json",
+        "Hash":  "AE7154228F6EBBB8E1F7BA5C9CA9EE89092A4B5051666CEED640BF45FE6487AF"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\e9bb6954.json",
+        "Hash":  "1B4587E4B390E9C1EC16261CD82BF2198B10EA12BCDB6384D930C8746612B0D7"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\e9c9d9a1.json",
+        "Hash":  "3A007877188BC15A74323540B68712B0092DD6B3097311543CCA061266CF6F87"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\ea959feb.json",
+        "Hash":  "BCCB470A1C33FC0994F22898A88D4E8E967401049BDE1D7701BF05F22E9BDC77"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\ea9794b1.json",
+        "Hash":  "8C5A92F75628537C15DF8D212379E889C9F179A082AF0CCE34FE305D593438DB"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\ecaa0ec1.json",
+        "Hash":  "E82E70F5AAE19FD7DA4D3DC933E770AEF028AC4DAEA723D8A6A859FEF65294DE"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\ed74f2f2.json",
+        "Hash":  "6395475EF5FA8839C7FB68957432382D87BE7D03E363A144055B9468E1B1C7DE"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\ed98d772.json",
+        "Hash":  "9DEB64E5EFC83A89ABDC183CD28F07AA14A17380130F0EF0A38F235615DF1737"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\ef26cbf6.json",
+        "Hash":  "86C2B6E677220BAD6ABCDE4ABC44CC8CA6AE0C7909821B549815F8260E68BACA"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\f0afb749.json",
+        "Hash":  "4878F4C48751B62EA25112CAE82B8FF1427586F37B1C9D6C028B92E3FBEDBAF2"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\f0df5ff0.json",
+        "Hash":  "FED08B000BF3C9A74468F1390EE412CB72ED05AFF6BA46BD12F33A980819C099"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\f21745ec.json",
+        "Hash":  "00AAB25714C38C3CEA56D14C10528CA0F77890D5149DA6EBDCAF5505F7604199"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\f3b10344.json",
+        "Hash":  "052571FD136D56DC3BDF14AA27EA056103343C2A06E695311519BB0FB6EE2028"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\f3cdc58f.json",
+        "Hash":  "268CFFC01CDFC1F408BACCFFAA27B902E023B934089CC9C7516062EDAC206E13"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\f3e62deb.json",
+        "Hash":  "7805A691D50C88757363B2764D014835B117C829E1171AC79ADA07D2E65EF422"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\f4081712.json",
+        "Hash":  "78720BC17C535E2A4B5A930CD789F4BB1C6B98B8D92F73463215EAC265564EF1"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\f45f5ca7.json",
+        "Hash":  "0A7883716E898FA59F095083DF7CA8A23D9B89349ED5E9C2C6714E8CAE71F758"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\f5aa3634.json",
+        "Hash":  "63D5174CC05CFCD9170E88CE1D6D204B3B82099023181F22ECEA20AB640D044B"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\f5c89df1.json",
+        "Hash":  "9324FB2E3132DBBA6F1E835AA2EEEBAF857F48750E55406476653DA5609B8039"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\f823c43c.json",
+        "Hash":  "BC707BB1176A0F5089AA33374003B3807B4FD1E85A85DD0AAFF8351E25238A99"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\f83cb3f6.json",
+        "Hash":  "094B3CC66BCEF841C77BDFAF83672B2BA9E0B623CF095B6C3C7C6DBA2A2F34B3"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\f8be4b64.json",
+        "Hash":  "4ED5CC64FEA16BA770C8FDDB5952D0387A2BB0E2C15A0864AC145E83AB7D6EAA"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\f9a67cb5.json",
+        "Hash":  "684868D191D40967745D14BC253C42B2692071DA4A7E1D2270735E059E8B9A07"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\f9d67f8b.json",
+        "Hash":  "0BFB79F7B088DDA445409B6C5201C71D46643E673254D50A127F101D7A9AF392"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\fafd9572.json",
+        "Hash":  "AD68A0AB3F78418C92F275A5FEA3AD35DDA09EDDC5128E17D66C64EEE1DACCAC"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\fb791726.json",
+        "Hash":  "8B61B26B71E8CCC139D8FADDE2F78D082083C077C21AEBD58A7D3129FAA0376B"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\fc754716.json",
+        "Hash":  "D7D0707402EFB03A6EDE049210D7F93F186DCED81B581E5BEC2D74541DE1E2F1"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\fd096ab6.json",
+        "Hash":  "0278CB45A1FCC797C411194BF91D9088C50E79C52261C1D575EEFD8C4D8F32EA"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\fd4b2b02.json",
+        "Hash":  "03391AC8B70794DFB847525A6BCAE95914958C324F8FE1A9039FBF589D775B5C"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\fe9372f3.json",
+        "Hash":  "C7633D510597E43F9DDEEAE59A20810BF5737FB7501871E7FBAA21C1279CF50A"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\fea12743.json",
+        "Hash":  "829C0271363F6D6F4AEEFA9032D17AF9D4DABA3D038C3B2AA1D9715E9F879A95"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\evaluation\\ff72ca3e.json",
+        "Hash":  "E232299B4AFE98C86282E4C062CC645AE3EFE595664BEA6B4712428F37E195D9"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\007bbfb7.json",
+        "Hash":  "11CA5CE82FF2BF9EE978DD9B52C07B060B44DDB98CEEE0DEAF462BB09599E3A5"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\00d62c1b.json",
+        "Hash":  "AF6A4A252ABFEAB5982F19CC4F5F649DA37516C633FCA5A9B0FFC4AB9C9AAB7E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\017c7c7b.json",
+        "Hash":  "D626EC83850D920E98CAB6E9DA9A0DE6AF02C90F68091169E7016305E77D9E4B"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\025d127b.json",
+        "Hash":  "65D81818569F7DC3A1D7C07B4C932C9C57FFF5212CC4AE11301D2548023784B8"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\045e512c.json",
+        "Hash":  "E45837EC4E8DC938EF9DBE2346174DE4E9B737F9751D0967733336D4D4A2C657"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\0520fde7.json",
+        "Hash":  "EEB3C3EA94CA176029B8943A930213BFA4D370A1D8E907B24165BB3ACB186FD6"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\05269061.json",
+        "Hash":  "7C9ED469BE058DF078301F3A5F781D2DB593817C196C8AB93EB594A4A21316A7"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\05f2a901.json",
+        "Hash":  "7597E1E13089B48282A9E24D34A52200CD388D23627C55041CB020E479AD6D12"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\06df4c85.json",
+        "Hash":  "B5138128E15C43600F99E49DD46A0E8ED57641F8362D73C86F19BF3F38CFC45E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\08ed6ac7.json",
+        "Hash":  "9A079B689A02A12C19B3FEE6C38F9D7A16B1266142FA4862428624AA6FB7B3FE"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\09629e4f.json",
+        "Hash":  "7DEA95740B6F46DE8D1ED350926FA92E0914CB88CEC30D2707BAF1803355C7D9"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\0962bcdd.json",
+        "Hash":  "034CF6E29D3702228BDCA332A3C8FA1E1EA828EA9B0925CA3FE9329F2845F069"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\0a938d79.json",
+        "Hash":  "9D9F6BCE8A3A02879EE49C015FF56CC497423DB85FE13E561306600789BE5A10"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\0b148d64.json",
+        "Hash":  "AF590007FFAAC4432298CB3021960F56DB4C8E4A8025E8B211A06A92F1724AC5"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\0ca9ddb6.json",
+        "Hash":  "14D874E772F5732280ADFC00AE685DA308FF31D04DA884C1E2669C93737716C3"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\0d3d703e.json",
+        "Hash":  "2F973E8BA82C693BB2745C27CF7BB99F903ACA27571DE1333BC7A36F47C85865"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\0dfd9992.json",
+        "Hash":  "0B7F179593DACBFFC8868C452A03534A695BF8D103741B4A6F5E6CCEBD50BA44"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\0e206a2e.json",
+        "Hash":  "BBA51848924218A7A65568BAEB7FF309C81E22AC37CE16DB37F687EB6B32E2A7"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\10fcaaa3.json",
+        "Hash":  "0363FB856981A7603BDA50226E49FB965A8D0F05902C9D5CFAC49238605DE54A"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\11852cab.json",
+        "Hash":  "7C6198FE07E50C38D60A501CC35F901CC0DFFA0FEF2F31370773F51232631636"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\1190e5a7.json",
+        "Hash":  "4D477832C23BA0B8388603018F08CCA7A71506B95C0048880225A772F84EB829"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\137eaa0f.json",
+        "Hash":  "6A47CE4512A243CDFE4175DC25D7B217EE2EF35602BE18F69593368AF79B6203"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\150deff5.json",
+        "Hash":  "B06CAF9A7B444428AF716E635080DD20893214CE90190220E298B53727CB8204"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\178fcbfb.json",
+        "Hash":  "5950E325578A99F6C5F258B33F766DB61952FC441191880955211E2EEB4ACD6F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\1a07d186.json",
+        "Hash":  "FB6DDCD58A2406BDE5818FC03B347C125077C210E39B3B27A93064CA7D74C904"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\1b2d62fb.json",
+        "Hash":  "B1E3D6738F6246A4F9EF312B03259A5101C4069BB7D7DBC7060793B0A0BC5579"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\1b60fb0c.json",
+        "Hash":  "204113F2C3F11337AD43EEB67350CD9C03BE1E7455973B0FFBE5BDF05FA0267E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\1bfc4729.json",
+        "Hash":  "5EC42D931051394F5D30A586A4F245C3DAA59B52411852096BFEB86D9B830F9C"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\1c786137.json",
+        "Hash":  "D19C70B96C7693E0FAA29119AD869BA403A2868027A8501AC5E0AB558562D437"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\1caeab9d.json",
+        "Hash":  "C4D4471D98C3B2896CE53EB6E3D954D34078F17BB999B0CEE6FB6EB25C6AC54F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\1cf80156.json",
+        "Hash":  "1D45D67EBDB686F28574337047AB56C7BECE139A6AE68729F6494071776DFAB2"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\1e0a9b12.json",
+        "Hash":  "374E897A64B1D1BD0EEB3C00726F181BBBA81D3BD36A51FF3E2F035F0D760E50"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\1e32b0e9.json",
+        "Hash":  "0E6B5F7A238C38BB493CED6563B328668BAD4DFD7010E4771A0A96C792BCEF59"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\1f0c79e5.json",
+        "Hash":  "C236053A417250B66D7118A0004C599EFCA27818CC9D399DB95FDDFA8467E9F6"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\1f642eb9.json",
+        "Hash":  "91C38F5BAEF6B338DFE53E8BF34D071C3053AFABC03678C49118C059E10F59BC"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\1f85a75f.json",
+        "Hash":  "AE9D0E47E322A8EBF4449014F43ABF04076FDFF7723EDEE17355AA357AD39933"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\1f876c06.json",
+        "Hash":  "92096BD0691EDCA4E9CF2A618DC650C37D5C252D00512C0A635DB945B7C7804F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\1fad071e.json",
+        "Hash":  "EDA07774C6929F0068393E56E7894DEB5C5D59A9FAEFE70BABCC67BED5119E90"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\2013d3e2.json",
+        "Hash":  "F5D5178AFB1C8EFB67AA69D4833A5700B383F26E8D646941D6A56E58A1F6819F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\2204b7a8.json",
+        "Hash":  "CB62BBCB0F25794E9A4016CAA6D2500097C25210F5FA9CF37FB0F1715EE63634"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\22168020.json",
+        "Hash":  "F95955DE86B7A6BEAADEB9D5304B7CC0090798E4B1A978551EC86F7556CE2721"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\22233c11.json",
+        "Hash":  "129891585EDF7671C2733876FEE618BEB5A9D421BE31E98774BA89E724D11CE3"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\2281f1f4.json",
+        "Hash":  "F4FD1FCBD18961CD660B0C2857E78E810DC8FD6020155E61BD4F7EFC5D0F313F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\228f6490.json",
+        "Hash":  "0412E4741F8F07635EC8EDC8D2CB5830B8C7EA6960860BAAF42E5B3AE2263B9B"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\22eb0ac0.json",
+        "Hash":  "5E2BE3031A9834B9AE526DB967B8DAA5D2D471717D5CF581C4CD16301B6340B2"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\234bbc79.json",
+        "Hash":  "1B0D8FA898572B9BFB7312B9D8B15EE489167DB485BD18BFF9DC703FC926161D"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\23581191.json",
+        "Hash":  "9F2A15D7D76BF7CFE0AA05A31FA92D1606FC1A76AC5390872C49FFB4391F3686"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\239be575.json",
+        "Hash":  "C2A133A2B40AE39D8DBA8B6ABEADFA190D6B171DDC0DA7726BB335F49D0A2EE6"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\23b5c85d.json",
+        "Hash":  "7CF5A09AFF375325849A5A4509AB168899E28070CC5C4C5F4B5C2663C474BB1E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\253bf280.json",
+        "Hash":  "36267873A9FC9452FC5E095EDA48D7014B2427B3562550E5C0F7E3792F33606F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\25d487eb.json",
+        "Hash":  "963EBBF1E819A475040B7D425191C87A507111B0F0826D88B2BFDB74D1F3037A"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\25d8a9c8.json",
+        "Hash":  "9BAFD27D237F35B82C78A7AB01397CA754E5D639D0909E4B9FE7618FE3C52287"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\25ff71a9.json",
+        "Hash":  "03D97D2FC94532973864BC1834C06B4EC539FB81FEA961F6B31381EDAFD591FE"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\264363fd.json",
+        "Hash":  "8B9D16D7EAAD1D257157D50C040843BD11B1D2A3295DC4E1D2777E553E1A1B37"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\272f95fa.json",
+        "Hash":  "97B97431D0B406FEF4D504DE3030685AFCD6AFA0530AFE89EF5EEE4D44E989D4"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\27a28665.json",
+        "Hash":  "78CD528903E30CC96E3E668ACB351CCA50F944BC1A6A571C336D3DD8F9B285C4"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\28bf18c6.json",
+        "Hash":  "82427D8725E53ECEBDB9F500DEA3BF4BE7C93E79A76371E89715DF262A326C11"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\28e73c20.json",
+        "Hash":  "035ADBA67780F222087F76A885FD7F6ACEAEE853A7CD42F3C1FCCA3DF74F7BAD"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\29623171.json",
+        "Hash":  "F4EC9AE6BE3EFFF41DB43388A8ED654F743E3D5902D1B5688DF276436CE27417"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\29c11459.json",
+        "Hash":  "0527B641B43EF096664C3A71118C979562288AB715FD9FFCE9A2229B00716CE6"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\29ec7d0e.json",
+        "Hash":  "F915D8572DD6A5D74545D9B5EF1C09CBB34A8B5E0A45F900CECD7DA67BEC0442"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\2bcee788.json",
+        "Hash":  "323E4F85FF467335E96098ED53C8ACEBC3D94192F88457E3FBB6C4E56C5C5A89"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\2bee17df.json",
+        "Hash":  "1C7F8B2EF5330AA4492B99F715E2567DA3A3B6CD6255D6EFC7D4F23913B1E8FA"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\2c608aff.json",
+        "Hash":  "6856FEB649FFE57CCCE9100F325605DB4F6E2BD4169D522D9A4155063580AD47"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\2dc579da.json",
+        "Hash":  "109DFC7222D7692465389D92CE9D7C0352BB9A41C6C3C4882CB5EDE53FB89869"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\2dd70a9a.json",
+        "Hash":  "A3CCC2E1AEAD7F645E6F8CE263084F170E86A43859B542FB12F35F5E7E5E283C"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\2dee498d.json",
+        "Hash":  "FAAFAC3FAD91D06297832BE2E375E56B42DA1F1F65534D6F746FB328D38C7933"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\31aa019c.json",
+        "Hash":  "E58B04E07A0F32EE97BC3AC63DFFF4BFAB56398F456121181419F1F1B325D743"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\321b1fc6.json",
+        "Hash":  "73364B0B395D4B61B2746C6D2BD2EC20946643E012E4288BC843446B790A903E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\32597951.json",
+        "Hash":  "4508072B8320D009F36FFB5563A2F1DCB5FA9150633EA6CEC81D7207659E6949"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\3345333e.json",
+        "Hash":  "33D9A98FAB625036CF566AB716E4E11F7B453D34C97D3BB2CA5CB227C0D76209"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\3428a4f5.json",
+        "Hash":  "767A6249A9739934479C7E12DC1EFDAC0441E1BCCC96BB70A033E375278A78C9"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\3618c87e.json",
+        "Hash":  "DD0E7A11833277B4FF0583EDD3C93B16C62D6AD69C11D8C2CCFD7DCB87E1E852"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\3631a71a.json",
+        "Hash":  "47EAB6441A83CC98126565C8B3EFCD10C2F58E705C8A049E2AC05D3B35531A51"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\363442ee.json",
+        "Hash":  "0206D080D4D156239A5F043BA6C474E8C3956C7014705B91BFE568929AD8BD7E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\36d67576.json",
+        "Hash":  "7931C55BD3ED4E97A28ED9A6099AC4985181ADCB2783C946E093914301E76036"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\36fdfd69.json",
+        "Hash":  "9B1D7F2C42B8A004F803C9120A5AA971F45FBE305AF2EBDA7EDF9B95B98AA94E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\3906de3d.json",
+        "Hash":  "7508DE5D1FB881AF5F4F3118E5CEF836DADF527CE9B5B1B01D10A49FB27FD8CB"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\39a8645d.json",
+        "Hash":  "1D0351C7F419889DD872CF7AB47B38F1AE64F341B715F71AEB65D9C298A2C03C"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\39e1d7f9.json",
+        "Hash":  "DC5A238CD9FF408CCBF0EF9A0F4B8D831D1E83AAFB1A182868FA7AC0463A5F2E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\3aa6fb7a.json",
+        "Hash":  "E73E593C37D9DD8CC9A634F69509AB79EEEBA486B3CDB513562253E7244ED955"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\3ac3eb23.json",
+        "Hash":  "F53DB42C95A12B14EAC11B2593B797C37BD65A73DD7B89AEAE37913A8D6ABFDE"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\3af2c5a8.json",
+        "Hash":  "5DEE19FDBD6D0C8288B98DE93319310A99E5F41C64B989FBD6985BA6719D7714"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\3bd67248.json",
+        "Hash":  "EA9E44B04F843B1CBF5F9957D7C52A70880A13EE8E714279DCF7CF3E95236534"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\3bdb4ada.json",
+        "Hash":  "AA4641F443CCC4CE27E2FF199745863F2947C8E74D4AB7B82D6B6613F71679F1"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\3befdf3e.json",
+        "Hash":  "042B2AD43E001CA791F5555A7483AC85EB6A8D16BEB38B3819DBFB001B871847"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\3c9b0459.json",
+        "Hash":  "5F71EBC352E3D8264EFE8D10CE7EB0605FFE38FB4B6F94D359E091624AF6F826"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\3de23699.json",
+        "Hash":  "466ED3D4D8C600E745F6B7447DD65076726329C89827201DCA280F37DF10DDC0"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\3e980e27.json",
+        "Hash":  "0F1A06A9FC3860CDBEE91D11E69205A08E289D34799FEA60E0DEB26C93B03521"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\3eda0437.json",
+        "Hash":  "6796820B46B09DD3B9621BA3239844F804772C084B8C5E5AA762629FC5BAD68B"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\3f7978a0.json",
+        "Hash":  "E0BD3639DFA17E02A30AE4CDB30D3D60C91FF2874BA52F7CC31C9417B91376C3"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\40853293.json",
+        "Hash":  "FC5436BDCBC0E8E85F97B3BC8DA562A892700148C7A9D6C2C0CE86E65EDA6133"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\4093f84a.json",
+        "Hash":  "4234870A4C3B88FAF7AB6C2766EC1B33A81D9D9819D8815FA014036DFF393891"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\41e4d17e.json",
+        "Hash":  "847868ED0668D486444EE787A7E91002DB349022BEC82A35F32EAEDAC1428E70"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\4258a5f9.json",
+        "Hash":  "AA3747A96BF5B58738530CFC6DB1C83BC39A47416833CCEA429534C55B251D1B"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\4290ef0e.json",
+        "Hash":  "7182403016FBFA2243CCD63F726027B4B04AD4173787271A4CD1438AFD77C432"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\42a50994.json",
+        "Hash":  "2992E261ABABFAB0F03C12E6C3AF17BCBB26EDD592F96A1DE24000A3E3568BB7"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\4347f46a.json",
+        "Hash":  "1E613CB4BB4B9C0949F871832A5B08A4B4CF69E69355FC2192529671213B6CF8"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\444801d8.json",
+        "Hash":  "42D5B4FEC71BE2BBF4B4C920D171D36BA78D1D4B45EFA19F3D2B06461C6D70A3"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\445eab21.json",
+        "Hash":  "D0EE1E52B1D2D14F38B8155A1EB5C2C8DABF067B0E6683667BBB6DDA95FF4BCF"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\447fd412.json",
+        "Hash":  "AF13E29FBB5D333A6F465E5869A739287E2B148368F766CFD85A7ED0783E3606"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\44d8ac46.json",
+        "Hash":  "D4463446CB36C3345C220F7058090248A21310018481CC3D9AD0ECA88F39D832"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\44f52bb0.json",
+        "Hash":  "B3B3AB548ECCA23A223758853B41B7687F700CB667BA393414C4395B814675A1"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\4522001f.json",
+        "Hash":  "E7234E203FF1EF8103D743C9A3B6821A9DB3367F60B0698371C676724038006C"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\4612dd53.json",
+        "Hash":  "86248476C03A625AAD79CE2BA5E0F1BF174B2D46497368F2442756989ED533C9"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\46442a0e.json",
+        "Hash":  "5680E89C67FBEBD9358035EB82A5106BE4D186E3A506DF82AEABED03AEB60C43"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\469497ad.json",
+        "Hash":  "6205F8C5ECEB0FDD6383370D777F10E23E08659498262869F3B49907F244ADDF"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\46f33fce.json",
+        "Hash":  "5E43F62B2CB40F9C954BBAB06F7F1A7014A3FB522F16A63A07CB11455A5B518B"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\47c1f68c.json",
+        "Hash":  "EF21C561717D798615DE320B6ABC514A22E09519583CE0676E13FE9AADAAD94C"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\484b58aa.json",
+        "Hash":  "04718F22DC89E0037F4AB0821B45E92A098CA5EC54E4CA15052AE0AE93249792"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\48d8fb45.json",
+        "Hash":  "60DADFBF02DE001E906D1207075BDA530D280A9FC3E2CD0EF80FF28F3F49C999"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\4938f0c2.json",
+        "Hash":  "E7E13901F3B868AC11DABCB6EB2AA4E80B9454F95C5FCD85AD4AA7E5E6D0519A"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\496994bd.json",
+        "Hash":  "7BE35E73A286A3231EF22CE3F60A103775BB85041E76A11C2D69415751405AFD"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\49d1d64f.json",
+        "Hash":  "E6E72382F7BFC9B885642F706A655A5384B63A7DC6A8515DC534697E7F184C68"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\4be741c5.json",
+        "Hash":  "63369BB76373DCD36AD6D24F0ECC27F42E0951CB7959F5BA29AE40B29274AD99"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\4c4377d9.json",
+        "Hash":  "E850488A6E4D2C335D8EBD3BCF65E854D35733021DC04941C3B3D0B5EF685313"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\4c5c2cf0.json",
+        "Hash":  "4E6CFE0E24AEC8F0D3F2B7422086555325B2CA88609B228C63AF684AD714D81D"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\50846271.json",
+        "Hash":  "BE86CE3953E81831AE5F85046C24D98AAE628FACE643342068116CA23352630E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\508bd3b6.json",
+        "Hash":  "92BD1362F220BD7C63958D93A71329EAD98300D46D726313FDFC13E102E58C55"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\50cb2852.json",
+        "Hash":  "FF8A143B5522EE17B6046AD7FA87D68924265B0424EBE1D9884D93FE9744ABC4"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\5117e062.json",
+        "Hash":  "B7B72134C3A728CBFCF549F66FF6E2AE8028C59B6B72847F9D784D74C187D201"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\5168d44c.json",
+        "Hash":  "935F02532C3F43E39210787E115D1FA8E45A55A8E3D4AE56A3BB6C194D13CC87"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\539a4f51.json",
+        "Hash":  "E307F004DBB1D0CAFBD59C0B90F3774ACC754DB0B39329038456AED64F93DA8C"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\53b68214.json",
+        "Hash":  "88FA4FCF3B3C02071B09F1C78E0ED0B339570DEBEF48FB3367CDFDDE6CB59E25"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\543a7ed5.json",
+        "Hash":  "EF081E51D20EAAC390ACF967D42D34BDE8E29315B7055C7893D57C5AAACD3C41"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\54d82841.json",
+        "Hash":  "2658FD601461252900079041FDE96B56A29C799E23062279C6EFBB9539251D06"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\54d9e175.json",
+        "Hash":  "7E9868E5CA96C14AFCA4110CE4EEC8585BC79E75D2AD05535A55D5EEF3D52D99"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\5521c0d9.json",
+        "Hash":  "080A4E14963DA3FE4F14AA0A0D6AC5638F3ED04591D0ADBDF6C35D649F841E16"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\5582e5ca.json",
+        "Hash":  "078A2E47AEBCC8F8060312107DC22ABDE57FC73A632CDE723B1E2C73F4EBBAEA"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\5614dbcf.json",
+        "Hash":  "261DDDBCB6977AC460E9E75F71AE4F67FAADC18008A9C74C9CCDEA552E534038"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\56dc2b01.json",
+        "Hash":  "287637FC7200902788A8DCC230549A32A7FB1E94643F145711FA19D9103396E8"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\56ff96f3.json",
+        "Hash":  "D88A46312E9020A38E62112F9A3DB02B29BD2A102E9DA97688BE50F08779ADDA"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\57aa92db.json",
+        "Hash":  "D7F469A193EBB3B0718B0121D7524AA9A7E26AE38169BD2F99CC25FB253369CB"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\5ad4f10b.json",
+        "Hash":  "5B381BEB4A60179D07C8B4309B7DE7F2E2EA393C864623C386B9EA72F596A329"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\5bd6f4ac.json",
+        "Hash":  "04D0BFD3BEB60AD2E862C608A226DA384B49944CE292C43088725A5A1531B57B"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\5c0a986e.json",
+        "Hash":  "EBB80162183AB37EF908E80A8D3F3A53C712EEA7699B7FDAE95DCAB2CFA163A0"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\5c2c9af4.json",
+        "Hash":  "98505D04A490FEF8CBB6FB12295575FFA737696C7004A39CD8ACA5D995F43763"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\5daaa586.json",
+        "Hash":  "6CA437B5F8D95754065EB473B4A134A042795869B9D74066248CFBB7E31592B8"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\60b61512.json",
+        "Hash":  "02BA02A770853BE4141935260F892CA7EBF5B10C843458B1DBAADEA6EE568437"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\6150a2bd.json",
+        "Hash":  "EE8FB3115CA58C61089BB04E81459735B0CEDF5707077CB435DC371F88DF7F66"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\623ea044.json",
+        "Hash":  "1294DF35D12F4DF50F8A01069473801C66B63AF372DD929A5C6D29068BF51E34"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\62c24649.json",
+        "Hash":  "1678F4237EFBC9AA8602BF10F2927D0A36AC5E15F00BA86824ED55306FCFB1E2"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\63613498.json",
+        "Hash":  "893F4ECBCF42C91295EFE60C873BB42770F59AD643A22603448DC776BAB62494"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\6430c8c4.json",
+        "Hash":  "EDFB776D0EB20B90E08A76D401B7FD4873315680B8B0651974B97D624E14741D"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\6455b5f5.json",
+        "Hash":  "3E5064B26D8BE359D334E4F7AB2447E0243D499B2897D16D29BF90759521412E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\662c240a.json",
+        "Hash":  "A818BC26145C940CB1C25694189AD7C5BA27514CB1CD8EEDEDBCC21CA6B62003"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\67385a82.json",
+        "Hash":  "A84C816EF4DB40440595AD42ED16B355FA214B1F0CAC9CCB832E9ED20A097583"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\673ef223.json",
+        "Hash":  "41950E5C213CF5AFD428961C18EDEFF6D582ADEADD8581AC53B97301B39A8A78"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\6773b310.json",
+        "Hash":  "7C66DA83B06C0B832639049279ECB57C9E19A2DCBB6D441CBBAF4C6F6B694C85"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\67a3c6ac.json",
+        "Hash":  "1250808F0194542E13D1A21CE91EE828C84F03E9F80334D7079040904725BEE8"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\67a423a3.json",
+        "Hash":  "4EDA6EC4A5111F9930013CAD2A53156F8A376667D7495D4E30AE1A0647A21F2F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\67e8384a.json",
+        "Hash":  "C7E52202617DB56F19BB494B9B68EB8BF9CA4EC2E389E4687DA95771BFC4F9D4"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\681b3aeb.json",
+        "Hash":  "20BBD736B75E24A7E755E0F8990EA17ACE15E79A9EDB186B2215649172F7A186"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\6855a6e4.json",
+        "Hash":  "74CE7462BFB7FC535C92A5171974947D412BC7A60B37522CD7175638A9A45E73"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\68b16354.json",
+        "Hash":  "08AA4B7D2CEE07BF2C4D3E50DBEE62880180BD893DB912E52F691F9A103D0023"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\694f12f3.json",
+        "Hash":  "B1ED91D6C6978556CBC3B090B141CFC5E13D922E9AA5A24BC779BBFDF606985D"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\6a1e5592.json",
+        "Hash":  "6B486F551DE6808358F58731A560D3B25FABD86A9471B9743384ACC6E20669BC"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\6aa20dc0.json",
+        "Hash":  "A44E5FCC1766137BC07B09FC4768CD8B11496821F06B2225E36FF07920FB4584"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\6b9890af.json",
+        "Hash":  "CFC3F9ECA3BC12A585697D8FCA8F38308E9CA0037117BAEF4E455F5B998BAA27"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\6c434453.json",
+        "Hash":  "D6EDD9834F6D69ABA08D971C6BB5F0993AE5460B75035564F437F907E70D460E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\6cdd2623.json",
+        "Hash":  "F4334B17421D04CCDE82F8D107847F6D864432A0A9E1B7006F5024DDFCEA9B83"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\6cf79266.json",
+        "Hash":  "C651DCD647FCC9CDE6F38776D3E5F597596D3DF742F95C8051D5268BEEBDE7E9"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\6d0160f0.json",
+        "Hash":  "2F26B3EA7A91EF738ED7E48C6CCDF62B545DB5F9AFE8BE7732D3E0DC2A59F065"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\6d0aefbc.json",
+        "Hash":  "D8754F3D5124BB9F46AB46839A57986AD04F3259E0CB5AA0DDB877BED25D4EDB"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\6d58a25d.json",
+        "Hash":  "F64C42B80ADB3761C8324C29C0DB5742B835CD198D97332ED872DA0BC084FE46"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\6d75e8bb.json",
+        "Hash":  "DA7922B66C66178B8E00A99B666F322597D779572C42605BD08E07D42128050E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\6e02f1e3.json",
+        "Hash":  "65FA8EB8134475F8AC27AA4B5491FF2D73739B16520951DBE917AE2E134A9618"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\6e19193c.json",
+        "Hash":  "2AA24160650167DE54D8F2C9F080C1724427A0CE758B1645ABA78975DA2367E2"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\6e82a1ae.json",
+        "Hash":  "766F648F94D3429A6B40078DE59C171E3F046A1216ABCC149BE8D9917A737741"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\6ecd11f4.json",
+        "Hash":  "CD7963AF79F9E068D1528A583D280DC14774D398C5D4EAB9CC3E4866E658A28A"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\6f8cd79b.json",
+        "Hash":  "FF1A565006284C7B6AA3ADFBBAF3DC2233EA301C7204C8E1ADDA119CF24214F0"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\6fa7a44f.json",
+        "Hash":  "D2C2BD138FD994C5A7F6BA466593495D2CFF2FA618F5317F28F95EE00C4494BF"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\72322fa7.json",
+        "Hash":  "37895357EC8FE534AF87CA6B0D644A75A750A6F318B7FA88E03DF75AE23A7042"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\72ca375d.json",
+        "Hash":  "7E995804130C873D589C2D7D082DF09DDDF162478C2CC7350E8ED23C23F8E76B"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\73251a56.json",
+        "Hash":  "ED9A56A898A90300E71B41892583CDB525692C844DF6617AB0B7C7205941F161"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\7447852a.json",
+        "Hash":  "91541411C48C9E50746F8E853BD66176C79BC0032BB0D01E5417558E62F1F0BA"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\7468f01a.json",
+        "Hash":  "4DD40E046A6F9003A45337A85B8FB0F22B8ACED3680B6AA7442739923278EFE4"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\746b3537.json",
+        "Hash":  "4777C85C26C6BF461183FFFFD288A02C317148B8F28FAEA888FA302E4FF00041"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\74dd1130.json",
+        "Hash":  "8D3EBBCC2A8370E659F55EA488F3885D954CE98E540F41191963D7F4E8E1C66C"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\75b8110e.json",
+        "Hash":  "5ACFE7E728DD043F0FD0AFEF521E68B06B3863DC59FD8C5DF78DCE49E5B05617"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\760b3cac.json",
+        "Hash":  "80A9FB0472B3FD85E6489E8C997B2F0F2A6578C12612A903606E1EEFF8D78DCD"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\776ffc46.json",
+        "Hash":  "97CBFF20E0616C28903AE1722A4E8F39988CBD1C47662D65AECD57EDD3EDDA03"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\77fdfe62.json",
+        "Hash":  "B15F7943F868AEE6A66897067F3EDBF052C658B80F2349353FF00136667AB377"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\780d0b14.json",
+        "Hash":  "CF53549F72EA08A2BF2A984696E6D373864BBA2002A2EBB55C837A9CC10EBACD"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\7837ac64.json",
+        "Hash":  "29DB6C8F83975EE48B673F2979FEDD89BFD694DAD5B812268C02F80795482801"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\794b24be.json",
+        "Hash":  "6DDC4C61702D1933BC5B5B3706DD09A4D9439276E42EAE3711B111F184486EE8"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\7b6016b9.json",
+        "Hash":  "80D6ADF5552D5D10435254D894DEF6A048A3C8A1519923745C0B6F66CE558C74"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\7b7f7511.json",
+        "Hash":  "BD458456EEFC3828056D39A5C853DF8258ABFDF7C5A10FC0CF113433E7C9C1F7"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\7c008303.json",
+        "Hash":  "6C58EDBCCD46D636240D1E6CE98581414AC73652FC8F95E0CBA6106C9E444FFB"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\7ddcd7ec.json",
+        "Hash":  "C683E40EB60521D6A822D954E2A1378D96CB327D710468BD0E1F2F10B5093223"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\7df24a62.json",
+        "Hash":  "532C4CA0ADE362754C33C5C5BD0C98881C13FB2205324A9F73AC5BF7882FC71B"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\7e0986d6.json",
+        "Hash":  "0F6827A56A05FB9C229BCD5078CEB8B4FF68AFBAF9B60400E73878A0820206C8"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\7f4411dc.json",
+        "Hash":  "B493279CF41260AA3F995B0A3C6DB9281AAC99CD6617D685AF7E3D1508925E4E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\7fe24cdd.json",
+        "Hash":  "60A238DE7A937BCBA60370E140D2DA06D022A3513D64BEE92F8CE60F05847DCC"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\80af3007.json",
+        "Hash":  "653A2E12A0C4F633CB1EA03B45E6796D7CA22AC692E5C2426A0461F6376E3B8E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\810b9b61.json",
+        "Hash":  "E8042506FBA80FD4B40BF31DEB0644F687109AADF20A245A5117ECFE11DD956D"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\82819916.json",
+        "Hash":  "9BAEB4F05ADCFFCEA3620FF4B4CFD908349CB4F2105A4670E049EF0DBBECC997"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\83302e8f.json",
+        "Hash":  "F322E99B063541AC40CE1D82F68B4136B385DC3FDB72D21988991612AAB5B74A"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\834ec97d.json",
+        "Hash":  "7058E68EC14197727846F47974523C5B35278678C11CE6DE81B66E008B0E2A30"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\8403a5d5.json",
+        "Hash":  "EBC0105494B3CFD9D657EBC0CE7D08055B37CE357A51464F080EEA8AB9D767A7"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\846bdb03.json",
+        "Hash":  "29DC2B1A53397DA383A73F853929F7F5C9C0AEEA9E5AC2C4DBEFBD3C40B83864"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\855e0971.json",
+        "Hash":  "EF0C86DDE16C52D614D36009A2603F741542F300B46072B078C3CF50EB4F3570"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\85c4e7cd.json",
+        "Hash":  "2244ED9E00D442F207797C469DCF4B0DC3D505BCE266B877D153F6C6F2345928"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\868de0fa.json",
+        "Hash":  "4DEB5FA96FA50CC10E1EEFB4D160AA63DFFDC9CFC9D5F4656A19054151C8D86D"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\8731374e.json",
+        "Hash":  "C40FAC29A8D723B3685A2C744059E819A7DB0C7D2E4BF7074F7F9554FDEFA842"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\88a10436.json",
+        "Hash":  "A8B2C37FC155E5B25CA8A9B51C34F542D8F3D808C651F6C60A3E902279D6DB9E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\88a62173.json",
+        "Hash":  "A37DC0BDFE03879C2A879812E2EAC7CD61FBB003546CF0671C89D2592D1508D9"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\890034e9.json",
+        "Hash":  "BC650BBB4E59F6793967A22B9B8F2B896B82ADE2D3B09EBCA1CB62828EBD8FDA"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\8a004b2b.json",
+        "Hash":  "490A185721529C6BDDD88CD68690BE78258534A6589327A70F680B13DB410200"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\8be77c9e.json",
+        "Hash":  "4D56A0931FFDE716FE81125A8C8342CB257E98D6314FF0B276DE71713D5FC680"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\8d5021e8.json",
+        "Hash":  "766A963D05EC3E78C88F7ECCA96A6D23C764CFF6320FC2AF45F3C278BE474FB6"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\8d510a79.json",
+        "Hash":  "CDB9E3616467DD120F7BDACCECA8F1B44345649FE031FD097519E9F10AEF7ACC"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\8e1813be.json",
+        "Hash":  "6CD01C95B076E9F4D09A0AF1B8FC144C86E1DF8492391B1A9717FE0492605C67"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\8e5a5113.json",
+        "Hash":  "ADDF5D6F81C8E1040792674366789D72D5C7144774DE86EEA6413E0227278667"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\8eb1be9a.json",
+        "Hash":  "23F71097037BE22CB6A332F0416E2B012BCEBAFD3F9ABD09518482117B9BE03B"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\8efcae92.json",
+        "Hash":  "80BEF8CA224841F2EC3B25FAF51F7C5F1FE389947BA58FDD505D02BBCC031DA5"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\8f2ea7aa.json",
+        "Hash":  "9A213AC10458A7D2EE3184735577860D0FAAC781AAE807662F9922717836A673"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\90c28cc7.json",
+        "Hash":  "3B45CE99C0208A7B769C28C52A46409ED6D0A7196B414995972A4C9105C41D0B"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\90f3ed37.json",
+        "Hash":  "9A9016D601CA8E0B6C196BEF026297C45698DA5E1CAAC8F547F302D4B72692FF"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\913fb3ed.json",
+        "Hash":  "7FF3BD47AE6A1619A265255F50FCB851AC3AB93BA9D57656851DCD6DB2C034D4"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\91413438.json",
+        "Hash":  "B4730F23D5AA651490DD0BAC39C47CD1358395A8BA7EDE0F20142290B4817EB9"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\91714a58.json",
+        "Hash":  "073675F5C908FFEBA6571C992C819D40EBA6775A5C9FB13C0CDE89D5916E820B"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\9172f3a0.json",
+        "Hash":  "FCB7DB5DD9C287F502E302887C179EEB4D28CDDC7F22240CAF40ABC611488718"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\928ad970.json",
+        "Hash":  "817D0301942918AF23CD62EDA68E7757002ED277507E2862C9D8431A20AE20E9"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\93b581b8.json",
+        "Hash":  "0D9FFAEDC3CBD51C351370C050D06FE4FD0D600DB0A66F780739924798155EEE"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\941d9a10.json",
+        "Hash":  "6FB46EF2A359CBFFC7F5C1A0C0714FEFEE0EDF819975FAB2AEC7920E85558E63"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\94f9d214.json",
+        "Hash":  "F42B6F58D2F4FD00E57ABD43FE3978F8BCEE96A2B6A13C28F3E4460BB326D871"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\952a094c.json",
+        "Hash":  "225898D751BAC8C7158EB18DD883EDF4FCB1934F7ACDADAD6050A713E9F15071"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\9565186b.json",
+        "Hash":  "AEB017F2CB3E61FB47789D9F184828737A374B352086AB717DA4E5A7555AF82E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\95990924.json",
+        "Hash":  "1D18AE5450B078515604645755812AE24F5CF48DCEA98F30D0D4C8CA04767E56"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\963e52fc.json",
+        "Hash":  "0E37B2443DCC4AD61A7A09ABA5DABEE450C9AF59D5BFC1F2063B5CE6004127AF"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\97999447.json",
+        "Hash":  "AD60799A1F77C36A538F6710D4C896DF7F75BC76EFD2CF2739422FF433632360"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\97a05b5b.json",
+        "Hash":  "B2738660397BD60F762FAFD1EAC9C2303E1897BCAF4C6297A611D8A050CA8C77"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\98cf29f8.json",
+        "Hash":  "B81EAC9312D497B26212687EACF1FE788177A70D868247EA4FF85D5365E23351"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\995c5fa3.json",
+        "Hash":  "150AC7C06322C3BA654A61832BB103F190FB94E0038C2611A431F9B023C711B6"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\99b1bc43.json",
+        "Hash":  "752169C490776695C0640842FBADE0C971B9E7A05792C3B8C16283368B985B24"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\99fa7670.json",
+        "Hash":  "081371303DB6833C43DA59A24778BD22C7612618B670E50CE3B8273B38CCFDDE"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\9aec4887.json",
+        "Hash":  "AF994F5D985162DDAEC22DABA8292819F413C633005257FCC31FDF77BDFE07D5"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\9af7a82c.json",
+        "Hash":  "64BBFFB0DCCAC4D60DBD5876F6506AD8BCDBB10FD4F7E4FEEEE6253C5CADB0E2"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\9d9215db.json",
+        "Hash":  "6E8B028338BAF758B9061D8BE07F83DCF97566EB383C394179C952C1C78FF7C7"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\9dfd6313.json",
+        "Hash":  "2447159D2EEA378B5CC738CA3A408F9385E499E975478B75111F828062E55A50"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\9ecd008a.json",
+        "Hash":  "B8ACCC5889DCE18771102881F7D27E5DA160FFB3BE14D493BBF8F5719B454ED4"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\9edfc990.json",
+        "Hash":  "57C6C64531D6612725EEEAD49C6FDCB8845C6B2E72A6870010D579A38021CF12"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\9f236235.json",
+        "Hash":  "2D22595FC98BC7E0D6DB0579EC76FE6F83C6A56E41359D02BA80B7719B121118"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\a1570a43.json",
+        "Hash":  "8E6C6010C8D5241BDC1B9E31D9F903058FBC25B46B5ADCA335F0C9BD79BE2C9B"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\a2fd1cf0.json",
+        "Hash":  "596FC909FB8436AFCD19B79D5F3880C0062AE045435434975A0FD20D68F65E18"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\a3325580.json",
+        "Hash":  "883151D87AB4B2E4DC1AFA21BB6ABE8C8FDE251E35BC038A296490F90928C4F7"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\a3df8b1e.json",
+        "Hash":  "73F98C15AD1EFAB2813755242B2DAA93DB17C2DCDF7EC0E8E47ED53BC7D7D440"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\a416b8f3.json",
+        "Hash":  "CD1BB9BE862CC8AE4714F7A6C96B5100F2014965D7A36123B56A36D32EF66ACD"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\a48eeaf7.json",
+        "Hash":  "04E0A4A503219EE09B5600A75226D3550C9D4CDF5FF16B11581040DF514F7B69"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\a5313dff.json",
+        "Hash":  "0C21FA05C988E0EB5850758716A2237B40EC59C74530701615494AFC06B2D0E8"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\a5f85a15.json",
+        "Hash":  "860EA43C9ACD6EAAB3642997E811AE7139D1E59B9E5D44A6E7B8CD7921E0ADE0"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\a61ba2ce.json",
+        "Hash":  "2B07F90135EC956174C0B881B7896B49AAA2C4D6D538AB63ACA204EC772F4307"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\a61f2674.json",
+        "Hash":  "32FD55EF361E6FCB9D8E1D3F9C79929205A1A7C948AA3846FB047B85AE6C922D"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\a64e4611.json",
+        "Hash":  "46CB1256E961ED97595C16E8EB196F52D07210602A4291F18A44D690BF976CA3"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\a65b410d.json",
+        "Hash":  "FE65B2562DBAEA2A8C964D4C1E17C231C704894ED400767AF559A550EE37C25D"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\a68b268e.json",
+        "Hash":  "257F95777AF52328C21A572F46FFB8B17B6B896CE6FDC1563AC39A8A692AFA67"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\a699fb00.json",
+        "Hash":  "ADE75F41C0DFB61FC659DFC9C8A3A1B33D38EA5BE3451640A3B40B3D52E54114"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\a740d043.json",
+        "Hash":  "02C529189D9253D143AF7F8C0B87B84E39A53B7A533C521E0CE916E40E77E368"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\a78176bb.json",
+        "Hash":  "1B81D1D8D8AEEBB8792C6850D7F5B6CC5EEF620833436C21576F5D030CD1C1A0"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\a79310a0.json",
+        "Hash":  "E5399435A5C332734FEC593F623323305B07C31340EE96D767FC1A89AF35682C"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\a85d4709.json",
+        "Hash":  "84E609DA4A68D78B10831804A31BF828B61ACA3D9B13DFE39D90C4BE760423A8"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\a87f7484.json",
+        "Hash":  "F6425BF5EC6CE6D90DD641CF44A35CDE1E2C1485B59F0AE5539689B18A021C84"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\a8c38be5.json",
+        "Hash":  "92E65054CD5EF07E8BAEE94C1133BC8A01A17D126B8FFC5DAD9316D9BC34EE3E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\a8d7556c.json",
+        "Hash":  "71258C0697F8BE6F9E6476397F10FA9F6BD1DAB10B3B3A4DFE561D938A704E77"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\a9f96cdd.json",
+        "Hash":  "C60804C3F14D2A40007237F27C846736E938C1F81E0B6BBC4F1FE2CAE85B9C14"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\aabf363d.json",
+        "Hash":  "F7B0CDA6E609C731B3CF12237EC71897ED37F27D836C3AD07F181EA2B059D6FA"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\aba27056.json",
+        "Hash":  "CA887AAA0A592074E87EB7694A76A25A8D6D9CB45DBE04B905283889BC8208A6"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\ac0a08a4.json",
+        "Hash":  "515570DE2F81A095B9E3ABEEAD635E8BC0CC16CC127415037FA64DE72D2AC296"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\ae3edfdc.json",
+        "Hash":  "CCFCAA4337B7FE3459D640FE2B13AC32EECAB726CB3E21F7BEDD771C012CD7E1"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\ae4f1146.json",
+        "Hash":  "B48A577E95327789987F39E5C9DE909B5A192DCC586B2F3D5D46F34D8A3A0FCE"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\aedd82e4.json",
+        "Hash":  "182129DB92791256B23BBA6579500B568C543304FC53191B62DF5C9846F90300"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\af902bf9.json",
+        "Hash":  "822F48DA67FD9651A47F30AB3862D6633A0B272D89627DA29DC32B13E091CA92"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\b0c4d837.json",
+        "Hash":  "D870172FC061FBDF00A3A2B84E273689174B61ED76A5485A0B69ACF1E93F90CE"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\b190f7f5.json",
+        "Hash":  "8B54785D589C460C095149EDF62B6ED29C0AF98D06DCA2681E9D7ECBC509CF7F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\b1948b0a.json",
+        "Hash":  "52C0AF981DD218F1F0FABD3F5FDE4E3C3A14E4D5B0ACB5F4E86025E15BE3A3A3"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\b230c067.json",
+        "Hash":  "9D409BEE4D23189B336BB4CA8A397B26E3E705E4F67661265EE9B59F48A16A3E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\b27ca6d3.json",
+        "Hash":  "15D510AC57DC1006AD17D4113A0FAAFE5F71546DC2570284427BD65C9F0F1223"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\b2862040.json",
+        "Hash":  "807EF1F94A6FF7521C0AE185FADE0D06E1B6AB3D978B55A9C1BD5DA4D5F1A6DE"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\b527c5c6.json",
+        "Hash":  "4EB20C8B16D9EF5EB15AC7930D5F06C843DD80D09CDFA91D91F88C060600C7C3"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\b548a754.json",
+        "Hash":  "1A8F12F49C97E85AB5F7C3FACA956A709107DAC484A5C1BBBB37394EF4B4B301"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\b60334d2.json",
+        "Hash":  "B46618FCD52F77D4A79D109255637531AB94C925A01F3AD67ACACE548D1F9238"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\b6afb2da.json",
+        "Hash":  "1997A28D6E79B70596ADA989B0E5BB656CA6B9ADE4C92B0A0A3C3F522140640E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\b7249182.json",
+        "Hash":  "3F18DA99B7923BDBDF3A8780B6E91F5C7758579F3229A93EE525FDC493BBFECD"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\b775ac94.json",
+        "Hash":  "F5FB92BD105B468FA030EAEBA94CC714F0E0434A41227F1E8ED61AFF5B75B6AF"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\b782dc8a.json",
+        "Hash":  "5EBB25359BB7B1AB4654C644EFDBEB04211399EDDA7D1979C38EF51DC38B0574"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\b8825c91.json",
+        "Hash":  "A583F9BA0BFECAE31568901B1963507BDCB394D5915B8C9CF48656963B770EFF"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\b8cdaf2b.json",
+        "Hash":  "CDD201326A9BF42C88D499A024FF9565D9727EF78C77A94199D719DC6DBD113C"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\b91ae062.json",
+        "Hash":  "B6D03B1D1C3E6297C9C604DAF61D16AF0BC0774029E400E9167607F51866E289"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\b94a9452.json",
+        "Hash":  "EB25EFFC45B901A6F15B33AA4171E5C745A7CA062B36617B86A2521D6D0A0752"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\b9b7f026.json",
+        "Hash":  "5CADE9453DD8CD97F8C33F04D2B37A8E61D5E3F8C9F367FA22F0942A94691D39"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\ba26e723.json",
+        "Hash":  "B8FF03E5F6202626337488E611174831A5B7429ED1BD933C8FFFD50278B831BE"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\ba97ae07.json",
+        "Hash":  "5F024CB8CBFB348306D9264BCD602A7E55A923B43042FB214D8CE9EB715E7636"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\bb43febb.json",
+        "Hash":  "0279BC84A0F9099D3AF848897174AE365F6D5FC32F5AB8CEF384BFD64B75BF6C"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\bbc9ae5d.json",
+        "Hash":  "0A140115248DF9A11ABD6AACA98B208357AD93BC26256E4B41FC03396C6775B1"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\bc1d5164.json",
+        "Hash":  "119A503F0E4E93F45A813B88CB4D931F9218F964B837C8E24F516F0FE782EAEB"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\bd4472b8.json",
+        "Hash":  "3E40FBC622AEDB716C14B21B867B81718484F4DACF0BC0B7170FCC7AC9028A2D"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\bda2d7a6.json",
+        "Hash":  "905B7D601D8FF033C4D6055B634CD4FC69D29DBAC2A8277971914B09DF130319"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\bdad9b1f.json",
+        "Hash":  "8D32FF7B357A763360426AA10C9A5BA7E2C2C20912C9DB320F5786F777EEAAEF"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\be94b721.json",
+        "Hash":  "A5B6D493804ABEA9FA47047FCF0523ECB41671D22BF3617704EE55E77A4F9BD0"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\beb8660c.json",
+        "Hash":  "219035A3CAC63DE6B5DBF966AC2E8CC2FB884EB07E3F0192E9A2D7939067B0C8"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\c0f76784.json",
+        "Hash":  "06A260FE678D9D1E23414E3850BBFBD8987EF002F85D4B29C1BC5A973FCC62C8"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\c1d99e64.json",
+        "Hash":  "18E68974096311780058A873E4E4491DEC827A7A42107071055A0D91CD8CA2F0"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\c3e719e8.json",
+        "Hash":  "03C5DE110AFD7ED7DA7B60E51CE1B8D933D81BC47D5EFB774816E43A1CD27F6E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\c3f564a4.json",
+        "Hash":  "6DF079CE3AA5332512120A028C89FD7A1534BF522360AF4E5BE1DD0D0DEB69D3"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\c444b776.json",
+        "Hash":  "F9B09C3056F1B04782503B88F53B952E5081D7BCFEFA54A673F0AEBD9535CB6D"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\c59eb873.json",
+        "Hash":  "C4B094BFAB84E7D0959E0B7BA66B03A770E71CFD772F3676943A34CBD2753F3E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\c8cbb738.json",
+        "Hash":  "41FADF0604FFAA1C61A26915D9E5F921945A37E9CB7FA17EB860AEBF1D3787FC"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\c8f0f002.json",
+        "Hash":  "F54F72AF5A902DF59320B8E246D0B8C444CDF41EEDC32F0B17D8E4C32CD6F779"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\c909285e.json",
+        "Hash":  "1BBA5D5388A76BE2ACD55456303ACEC160CDFE10AA3CDB961E4E61AC4B47CDF3"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\c9e6f938.json",
+        "Hash":  "74C52E337B847885E7A13840BB53C4D2614B0B44CE7B74604D8ABC6487F257E1"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\c9f8e694.json",
+        "Hash":  "C3322248566D456A3FB3D87717A8B3C967D192072F6B14BD51548A28B551DA16"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\caa06a1f.json",
+        "Hash":  "009DD17DA0E9A2159A4E5C5DA81CC6FA4A49B9C007572D30D0A6E12BC0035969"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\cbded52d.json",
+        "Hash":  "BE459EEA2C8389B7755B7E34F0747232C9C917F376F49764D0E821A699FBDF3D"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\cce03e0d.json",
+        "Hash":  "C30137DDC87B91066737CEDB76CC0DA77B48A46FED69F1F3B96FA702910E29A4"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\cdecee7f.json",
+        "Hash":  "FF960F96BAC8D7548A3445E753CB85A6D45BCDDA23851627700A1DFE812A6DAC"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\ce22a75a.json",
+        "Hash":  "E356DA16D44D1317D355D101DDC466BE822C8CE1F7B97E639FDFC0420FCF341D"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\ce4f8723.json",
+        "Hash":  "5D9C28A2DD7E390B2B751F4347C551FA7789289FC42959BB6EC157B521092596"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\ce602527.json",
+        "Hash":  "ADEB7FE93252566A28B1E87C52C421E8210C818FEBC115377D4313158B489AF0"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\ce9e57f2.json",
+        "Hash":  "D7858FD582D3A22CB3D906FEE48A351347F5C50A7464683EFB141ADFF705BF2E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\cf98881b.json",
+        "Hash":  "CF1CE4C81125A302AA7561B55E36C9406FB4394A664B1415230E59931020FA63"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\d037b0a7.json",
+        "Hash":  "E988CD346EEFB7085D3EB3BE37D37A3B4B9F04D3CFF9E2595A5B55434A8FEC9B"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\d06dbe63.json",
+        "Hash":  "EB30652F1833D0D2F4C39C104D805968C3D0698BA3AF37FDA1A45EA813A7D001"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\d07ae81c.json",
+        "Hash":  "46762F9979A808545B6CEFFC8D4C6ADB4BD04FB2CA6589580D0F3666EF782206"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\d0f5fe59.json",
+        "Hash":  "7999E44EF98B84D1AB5660266B7E381BA11456336019156D2655768B2A010953"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\d10ecb37.json",
+        "Hash":  "D29EF366FC5000DEA8431CF837B6567323AE848CB8C2DF455B67D56EF4B95F86"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\d13f3404.json",
+        "Hash":  "A30765704B0839E524065C043D1712180BCEFFFE3EDECFDE8DE682D8E54D28F7"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\d22278a0.json",
+        "Hash":  "1B46411305CED1D94BE2371A82B3FCBBBC925BB21BAE1639AACCF801DD089535"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\d23f8c26.json",
+        "Hash":  "4E83B2A30F673AB8310F41F5342A3573078A19B208742A8004C87B6E5A8F36AD"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\d2abd087.json",
+        "Hash":  "C5CA7A773BE5154CC46DE5232F3597000EC869CDDEFCBBAD6B5E9BA64A5DC3EB"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\d364b489.json",
+        "Hash":  "78441F0AF49B589E72D5C96AA0B12D6429389497AB05742D618AA6EF74B2F2B7"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\d406998b.json",
+        "Hash":  "4BE5F7B0F79D9B0B785D4E020DB25652EC2E638545D319334FAF57A13E7C3336"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\d43fd935.json",
+        "Hash":  "1766AD0E34E9577F9EE72BC9EECE1CADE93F1C65C3BB7ED138B2009EE47B22C6"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\d4469b4b.json",
+        "Hash":  "DEB226C2A8B450BBD53A937C2021BC8E39F00F5540048FC2BD1DE48E39B1305C"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\d4a91cb9.json",
+        "Hash":  "304D972920B57A5B61022FE5101524331292DBCFBF30D1B09D8D74F7C1669068"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\d4f3cd78.json",
+        "Hash":  "A93DCD77A802F5C71A8BDBE1A0907214A7E77610C4C1C8720C769BE28F75ED07"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\d511f180.json",
+        "Hash":  "8A012406FD1BE8D5F7A41B0926B778B7E92F47673BF47A9F96A3C95A33E079E7"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\d5d6de2d.json",
+        "Hash":  "E19C9C3D31F790E203A99016E7ACC5BD3E2C17AA462864AB67D95CDF8326B528"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\d631b094.json",
+        "Hash":  "8AC92452DBB30CD080144DFE375ECFAA5A1E262C552EBBB27F0B4A88E3792C7F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\d687bc17.json",
+        "Hash":  "1A54598ABC882170EC690FFF89EAB4B3D5190D8C2AFD8ABF4DFB1054AA158C7D"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\d6ad076f.json",
+        "Hash":  "0A1B2BAC76CCD53205D213A856CE279EF43B5A67575BA8D6805B290D8996470E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\d89b689b.json",
+        "Hash":  "DE02887A9EDB26834D20C579392C2ECF714AAC80EB5FB068DC6AD7EDE150DC2D"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\d8c310e9.json",
+        "Hash":  "C997E0D10055419FF3B25D2650C8553AFC270E858DC6769424B90D10D5B7E91E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\d90796e8.json",
+        "Hash":  "5C70091ADE33D1E8CEAC543DCB0A4D645A2D9E93066133BC208F21C841AFEB30"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\d9f24cd1.json",
+        "Hash":  "FD52FF0C36431E632D27AE69CF66D18CE05ED9A93C61E7FE330EF928B87585DE"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\d9fac9be.json",
+        "Hash":  "9469FC335F2422FD4E8BEDEDD11D814955E194C2A13B017BE7E2272E61075A7D"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\dae9d2b5.json",
+        "Hash":  "381205D74DF1CF490BDF70A76ADBAE8BEA69BF56264E910EF10C9F9E0D863A20"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\db3e9e38.json",
+        "Hash":  "65202AA63C7FD0FE382498354B6A89F5147B0D2B7DD7D415B7AF4AEE09AA6C7D"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\db93a21d.json",
+        "Hash":  "9F5132B8EC6BC04496F05F93EC1EB13AF13C83F005991CFF3042CB936FE661E3"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\dbc1a6ce.json",
+        "Hash":  "473A48A73227466D099FFA45E59B9F89EC0FE1DA10774C9DF7131DF690397574"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\dc0a314f.json",
+        "Hash":  "D7C45BB21EBE67AB94271596436A7C0002103126F5CA9F20803FFDCAF9A67769"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\dc1df850.json",
+        "Hash":  "18CC4CAF0B2B62BFA1EF1E8ED81E475AC1112F21AE0AE751A6C3C4BA13591520"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\dc433765.json",
+        "Hash":  "5FA87CD750AE129378B66117CEA076E6A6BC51BC0C3DBAE02470EFABCA029688"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\ddf7fa4f.json",
+        "Hash":  "A18E2D7AA271A8E96E6CAC0460DFA4DF7277254705B7AFBC661E48E492C900F0"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\de1cd16c.json",
+        "Hash":  "256262C55D65D4B8906779EC3291684145DF22B555FEABA1382BF678F9C64813"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\ded97339.json",
+        "Hash":  "99A2EFDF365842A0FEF827904BD214AD216A9B742AA49FD7DF192102C2DA5424"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\e179c5f4.json",
+        "Hash":  "BE13D314430030A7D2900B26AD71F8E29B3D825596A949210B1042DE4EBE3273"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\e21d9049.json",
+        "Hash":  "B815272F21858470886627FAE18792D71C6F3D9F3CDE2DDD19C87D955C0C06B1"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\e26a3af2.json",
+        "Hash":  "D143242FB9E1FB255EDF4ADFA3190D851B7DE0BAE1FA5BD00FE26BEB18FB8D76"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\e3497940.json",
+        "Hash":  "77B9401AA9BEFA71409848E97A23D4148C47599F1C9E500042407AAABC432CE1"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\e40b9e2f.json",
+        "Hash":  "A1D6EB566839479263A81B0633F6B40360714E9F35A11E854552CCE59900C875"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\e48d4e1a.json",
+        "Hash":  "AC74C7EFF3E757D6F4E9D29CB76563B4334032BB368DFA2F3F5FCDBA55834ADA"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\e5062a87.json",
+        "Hash":  "2855DF1C56E5C1FD8314533FE5E26CD1AD9AE833EE1BD2FE9FFBA6115CE57712"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\e509e548.json",
+        "Hash":  "0543EAD473E832C38240202C6D9DC0755D1806B79B73E543183CD82624D0A7F4"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\e50d258f.json",
+        "Hash":  "9981AFFF991AECF0D6DD5857EC893675346F23B85982EC8BF45481DECFE2FCCE"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\e6721834.json",
+        "Hash":  "635B2E9EF4F8A049005C61F892F7430DBFA57315402396C6650511EE4C4D35A4"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\e73095fd.json",
+        "Hash":  "5B7B1D83CDB7B904E82D96BE8E21BDD365080CDDA43A4408167179608BA8B309"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\e76a88a6.json",
+        "Hash":  "CE0A740161F99A889F5F8FA1A19747C02A97331A3EB7ADE7B726A55B0DBBA704"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\e8593010.json",
+        "Hash":  "B8EAB8C6CB7A9F054CB163A686297A90BFA5F6FCFD075E2535F8A899A59482A2"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\e8dc4411.json",
+        "Hash":  "69FBD51594D0468E055278809C8146CDBAA2E454C65E45A4D906EFAC2A4E619F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\e9614598.json",
+        "Hash":  "EECE5B30C4F394180288F97FA241972F6A464EEBFEB52A03DEEB23D9101E21DF"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\e98196ab.json",
+        "Hash":  "BC95C40381A9AB10A1B54BE4DA014E70D7ED6A2599FAB02DFD62114FDE65EDE6"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\e9afcf9a.json",
+        "Hash":  "73F933C14CAA63EDA50D002F0F579445CFFFC639D2896BD660E78144C555F24B"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\ea32f347.json",
+        "Hash":  "3AB5432718340FEBB53376CEF99A923B83765A6C050A00C6082AD974051ACFFB"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\ea786f4a.json",
+        "Hash":  "CBFCEDFC4410FE8A6AAB5DBBFC22639D039BBD9159B455039608EF9FC0EF3B03"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\eb281b96.json",
+        "Hash":  "AAE1B783B880967E161439E882CCA9363BE6003FCC24ABAED3B69996C5186B95"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\eb5a1d5d.json",
+        "Hash":  "434C49053164D48166DAA04A3E2357839D449236232E024CB9F5F5B510F492D4"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\ec883f72.json",
+        "Hash":  "DD436ED52821C5D3E613DD924C9C90EC9D05B3BED969EE203939BD536478B9A4"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\ecdecbb3.json",
+        "Hash":  "17597DF6A1BDA37831780B29F74B6FCDAD095937EB41F20C1C3C2D654E4C25AB"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\ed36ccf7.json",
+        "Hash":  "76CF3BD286516CB7749C4A342030807BD09838CC157FC720E0C9F2D3272F46B9"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\ef135b50.json",
+        "Hash":  "0357022021BDA63D60FB7860D1B534E260F03FC00406E02EF280D92CCA683488"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\f15e1fac.json",
+        "Hash":  "2EE0DF1E988758E9D134954F78E6152F717E674748AA7226033D022FB3B9DFFD"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\f1cefba8.json",
+        "Hash":  "022FE9650852D94CE775B08EB6328866D5D6B263C78D97A6C1B2266D5D33587E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\f25fbde4.json",
+        "Hash":  "DA22FFBBC7FB2FBE9E471F37DFBE5E13499A46DAEA10AC6E62E23DF6875A0489"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\f25ffba3.json",
+        "Hash":  "9DF16A4869B3BAB6920D0B1FDBA355EB31D319BFA22C2BB0E29FC80AFB7B3E83"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\f2829549.json",
+        "Hash":  "E6535977FD80581531BB5765CBF9E885A43BB4AE27A9E6864F71C5F221E92F45"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\f35d900a.json",
+        "Hash":  "831D3EC1AA4D06EC1B182F63330D4CD1D49323000257EF8F9BF5345E14A39F55"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\f5b8619d.json",
+        "Hash":  "1FFBE43FCA6FB78BB9F03F38B84B132C2088998D0DE035E7D6D21139271CF025"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\f76d97a5.json",
+        "Hash":  "49E1B0702D0945BCEEB802C387BA8092E9BE3FDB566E3005C674E20F585DB5DD"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\f8a8fe49.json",
+        "Hash":  "1ACC0C6C91C939A1BD0CF6BCF1A40C91D07B4DD64F972029A41FAFE6972CF82C"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\f8b3ba0a.json",
+        "Hash":  "85BD0F9C1CE9031F4D804594857CD14C7377067211DBF0F9DEA16ABF17968BDD"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\f8c80d96.json",
+        "Hash":  "3138F94171E0231DE05B8E4F2FB5EF9FB09E5723FBB6A0EF46DCD978C063E3FD"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\f8ff0b80.json",
+        "Hash":  "DBE868AD87503998E7F5CC351CA344ADB7DBC07224C6FD63CF3743B87CE4E36E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\f9012d9b.json",
+        "Hash":  "E7614717808AEAFEF53AA61CA10ADC10ECEC3161F2D289940257DD7328843D8B"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\fafffa47.json",
+        "Hash":  "6D24BA651F019E47CDA609C572D0B355A0188A91297A92BFB3A5054C4B341CC1"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\fcb5c309.json",
+        "Hash":  "47D8E3714E177EBD8A23F1E7AD73ED3DB1B4A925691AD35A6A6BF11A6A389F4F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\fcc82909.json",
+        "Hash":  "0235FCFC06826D24D54486773BCC067E09FBFECFDF2B93827B8D93AD03B33430"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\feca6190.json",
+        "Hash":  "678B804CAC2DA3FB2710CBAF5D467604D8C0176440DE498E0623C2F0D51AAFDF"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\ff28f65a.json",
+        "Hash":  "507A4BFD285FAB8FD82E8538D63135DB726D776825D37AE6E9C1A755F3E72C50"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\data\\training\\ff805c23.json",
+        "Hash":  "34945499BD28B361D3188B8131BD3B23B0783CEF21A90A5170EE4EE4D82ACB86"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\.gitignore",
+        "Hash":  "8CF15B3902E99EF6203BA6C2CE82942F613BAF9E3909EE1B1FE869111615EDBE"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\baseline_infrastructure_outage.json",
+        "Hash":  "B6263F8D16AC8C661DD93771526822CAD0FD103EAEA89EE448543702A7334DEE"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\comparison_infrastructure_outage.json",
+        "Hash":  "B6263F8D16AC8C661DD93771526822CAD0FD103EAEA89EE448543702A7334DEE"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\CONVERGENCE.md",
+        "Hash":  "1AADCCC34D22A8BEA2FC3C987A3385BD4D23854A159DC4752B3BA42CA1AA0B63"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\decompose.py",
+        "Hash":  "F1ECD4DF1A4E19CC9D3D8137570FCF687849DAF23A8B0DFDE1E3773075CD4DF8"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\infrastructure_outage.json",
+        "Hash":  "8E8F966593149B89DDA302152CE51FF68DCEAC46714C068D205F91914DBB1D5B"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\infrastructure_outage.yaml",
+        "Hash":  "D5DDA73BF7657D04FAE32A3D9142445F453BC190CD194D28985FE7E3BF9037C8"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\local_dirs.txt",
+        "Hash":  "CB28947D4450436E59EE71782EB4FF432F9591EAA4977CF129902F46C44A21CD"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\metrics.py",
+        "Hash":  "7099F7F91EE8E1E9A0551721B88EAD1F51C17C32939FD964BD4D98D76E69CC35"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\model.py",
+        "Hash":  "06190ECF788A8E8F03C12E9DB634D1CEE86BABBB986780F15323383FBAF9B9F1"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\README_SYSTEM.md",
+        "Hash":  "D0E05442F4E96B363F7761A429D663DEDDCBC55A7F3BE152D018946E4227BE2C"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\run_infrastructure_outage.py",
+        "Hash":  "2961B00B580E898EC78DB0D4C34C2850D7D66E590458A3B2522B71C03E79B0C2"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\s-model convergence record?",
+        "Hash":  "11FB2D2CF6AF32B75936744758F84B5337E79E98B697AD8ACE6B3B9209AFEEA8"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\tatus",
+        "Hash":  "AB5071B7F1A334D73A3DD88C96FA212DE3A3DC19C681A58299A18CCD557A8A16"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\test_decomposition.py",
+        "Hash":  "71F4BA21705681CE7413B69989453357C9DF895DB542A9F24A56BD6B56034D61"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\time_to_clarity.json",
+        "Hash":  "DBE6B363768F176045F8B15671E271AB428134DA8B81D3DA2D9279367D150DAA"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\benchmarks\\baseline_infrastructure_outage.json",
+        "Hash":  "B6263F8D16AC8C661DD93771526822CAD0FD103EAEA89EE448543702A7334DEE"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\benchmarks\\comparison_infrastructure_outage.json",
+        "Hash":  "B6263F8D16AC8C661DD93771526822CAD0FD103EAEA89EE448543702A7334DEE"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\benchmarks\\time_to_clarity.json",
+        "Hash":  "DBE6B363768F176045F8B15671E271AB428134DA8B81D3DA2D9279367D150DAA"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\cross-model-convergence-benchmark\\analysis\\convergence_metric.py",
+        "Hash":  "DBF03B99DA6B5758062796EA977474A9B03980587B8B6569D5AC2DBE5AD04680"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\cross-model-convergence-benchmark\\analysis\\README.md",
+        "Hash":  "E91296A1648765A88CF9FFBE4C4DA85AE0BB5E15F454A07C0E8816963AA798E3"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\cross-model-convergence-benchmark\\analysis\\results.json",
+        "Hash":  "ACD8C07F05CA2E295883631126917F3388A0EA4D81DDF42C55954D13A78FE489"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\cross-model-convergence-benchmark\\analysis\\RESULTS.md",
+        "Hash":  "89DE0B6B09C261FCBE7E97690A03D2F70FBA574CDF9990583BF526E017CE0147"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\cross-model-convergence-benchmark\\protocol\\BENCHMARK.md",
+        "Hash":  "F929F39BC9BF5FACBA49742D4DC923EC23D026E0941BCD8DD3386406F258BE55"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\cross-model-convergence-benchmark\\protocol\\prompt.txt",
+        "Hash":  "4334FDE6DAC68D81B50EA38C1DE7BCF3910715250B077C0C090B12639228EAFF"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\cross-model-convergence-benchmark\\protocol\\README.md",
+        "Hash":  "0068D3607C34F96808511FDD7FF47C0A0A96578E93A0EBF7077BFC48C5B87421"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\cross-model-convergence-benchmark\\raw_outputs\\README.md",
+        "Hash":  "AE90AAD0B6224B91CE27DD8244852FAA60CCB1E74A6EAED48DEA64B85C99358A"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\cross-model-convergence-benchmark\\raw_outputs\\gpt4\\run1.txt",
+        "Hash":  "EF95BA1700C2800C5D764E6B740F936E31359C8DD3A8EB6E95EE845A135DEC3E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\decision-structure-invariants\\infrastructure_outage.md",
+        "Hash":  "2C7CAF5694AA313C14DAB247D65F8B07049953E44E4D3EB9E4E98040A845687C"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\decision-structure-invariants\\infrastructure_outage_invariants.json",
+        "Hash":  "C98A14D003B6482CA5BEE34B0A034E28923FC6E0EE7490C2D43716790762A2BB"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\decision-structure-invariants\\intelligence_assessment.md",
+        "Hash":  "CD58EE156982C701F742D0DF1D1B12160AC0A85FCC7079B02963EC40C641F237"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\decision-structure-invariants\\intelligence_assessment_invariants.json",
+        "Hash":  "E5499B5A06E39742C162161C2962BE42719F17B74F27AC30225FCA906E072975"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\decision-structure-invariants\\invariants.md",
+        "Hash":  "93634C869CED7089C0CE0C71DADF39FF4B9AFB10F34673F6AB6C2DDF95E5160F"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\decision-structure-invariants\\mapping.md",
+        "Hash":  "D8167EB48CE00159899E4CB5000EB7DAD346790CB7F460A3A84A8A675A3AAF65"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\decision-structure-invariants\\README.md",
+        "Hash":  "86D1B7CCE4CB1EBF8A0DD66475B3BC29BEC6F6C77890925D3A79A1C733FFB84E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\examples\\infrastructure_outage.yaml",
+        "Hash":  "D5DDA73BF7657D04FAE32A3D9142445F453BC190CD194D28985FE7E3BF9037C8"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\examples\\run_infrastructure_outage.py",
+        "Hash":  "2961B00B580E898EC78DB0D4C34C2850D7D66E590458A3B2522B71C03E79B0C2"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\intel_firewall_engine\\README.md",
+        "Hash":  "A030C360F590D965553E38B421F9ECBBE1C36E1061E9F37CA24BF8DE8A5F49E5"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\intel_firewall_engine\\engine\\demo_full_run.py",
+        "Hash":  "83160E784A8D48A670F375008D19536AD206252298998408899709AB76AE68A8"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\intel_firewall_engine\\engine\\entanglement_tracker.py",
+        "Hash":  "49B4B98483FE6CB1B6F1FCDC9246A54C1252BEA5A4D5E2EC7F190BE664808A32"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\intel_firewall_engine\\engine\\evaporation.py",
+        "Hash":  "9650480553D78680D2F04C27BD794CD588614479C663DD3770E6F8E0330BF820"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\intel_firewall_engine\\engine\\example_firewall_run.py",
+        "Hash":  "A7B503B38DDAA1E91E5F4AEF6E8F6682191759D6F08BABD86EA7C65EFD10836C"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\intel_firewall_engine\\engine\\example_run.py",
+        "Hash":  "478679E5C3EC090FEC69601AA43D92C38C620B82AC5A3D959AE593944ADA9BE1"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\intel_firewall_engine\\engine\\firewall.py",
+        "Hash":  "CC7BE0DFD8C8150184EE0C78A99A3E567C8FB365B650E9E9D5AB7A901CA26650"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\intel_firewall_engine\\engine\\firewalls.py",
+        "Hash":  "34986BE96AE5903A849C6EC7FE71B1F0F5359BB19AD1FF54F441040BE35ED2AB"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\intel_firewall_engine\\engine\\firewall_evaporation.py",
+        "Hash":  "D8E76D3FB7012E02253BA5801D73EC0FF50D57E78841531B0DFEE2CE28F3CA01"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\intel_firewall_engine\\engine\\paradox_simulator.py",
+        "Hash":  "1AC3DDC386DD052A68095C1F689A583B5D28A767936EE2AFD133F978163D6FC9"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\intel_firewall_engine\\engine\\primitives.py",
+        "Hash":  "442AEFC8CCB4B8EEC8615B0B67EC9A3A3A8EC725A8DF3A528F39200B9F47BCDA"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\intel_firewall_engine\\intel_firewall_engine\\engine\\demo_full_run.py",
+        "Hash":  "F6DDB0EB871BA1866B2A938BAF8D44619531E2F01FF52235B6AE79A2129345BB"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\intel_firewall_engine\\metrics\\entropy.py",
+        "Hash":  "A493273CA4D2408A497B7EEB27A938586A520BCCADFDF684C2AC5C92F1F06C36"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\intel_firewall_engine\\sim\\scenario_runner.py",
+        "Hash":  "834578DA42AEC7E035EDB3F487A01FBDC6A2935C257EBAEBDCCCFF739088CCED"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\invariants\\decision_invariants.md",
+        "Hash":  "E76185ED95B83C6EAF44387E25E268D96B29C8C905A762B743482D677ACCA064"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\invariants\\failure_modes.md",
+        "Hash":  "9A17F0EE2A364B1EA2FFEFCB5AE803FE3E0B035A6A28C1B52C5DDBC4DF91BE8C"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\invariants\\INVARIANTS_REGISTRY.md",
+        "Hash":  "D40DF403EDECC9BDE3577DD19813EDC55F85B49D64E55281E3C36960162B47CA"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\invariants\\mappings.md",
+        "Hash":  "0555FF39366829AC7ED0D77AA7B9B8E4E76C5CEC49EAB4821CF8ADC8555394CE"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\invariants\\README.md",
+        "Hash":  "F86EC9AECA4950EF5B5EAEBC6CBD19773712243650E161DB2E9D97E0E2D736BC"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\invariants\\cases\\case_001_infrastructure_outage.md",
+        "Hash":  "570C12BB22110A9E41EA18D416D8F14FE1220EF5E43EECE0AD0BF708DF8C7AEE"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\invariants\\cases\\case_002_supply_chain_disruption.md",
+        "Hash":  "1DFF2C718C3E891E68B15B748E9A830F497EBEBBB899FE6E76BC00F4878F47FE"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\invariants\\outputs\\case_001_infrastructure_outage_output.md",
+        "Hash":  "5EF51989644704045950DC95F2C32280F67051674500866D70EA7AE88ABF1C9D"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\invariants\\outputs\\case_002_supply_chain_disruption_output.md",
+        "Hash":  "35219FE7081EFA0A59EED57272946729273E5E1FDD730C3220502142D21470CC"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\logs\\runs\\infrastructure_outage.json",
+        "Hash":  "8E8F966593149B89DDA302152CE51FF68DCEAC46714C068D205F91914DBB1D5B"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\src\\decision_decomposition\\decompose.py",
+        "Hash":  "F1ECD4DF1A4E19CC9D3D8137570FCF687849DAF23A8B0DFDE1E3773075CD4DF8"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\src\\decision_decomposition\\metrics.py",
+        "Hash":  "7099F7F91EE8E1E9A0551721B88EAD1F51C17C32939FD964BD4D98D76E69CC35"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\src\\decision_decomposition\\model.py",
+        "Hash":  "06190ECF788A8E8F03C12E9DB634D1CEE86BABBB986780F15323383FBAF9B9F1"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision-decomposition\\tests\\test_decomposition.py",
+        "Hash":  "71F4BA21705681CE7413B69989453357C9DF895DB542A9F24A56BD6B56034D61"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC\\decision_decomposition\\decompose.py",
+        "Hash":  "0CFD04243E2B471B472F92DAA716E568B1A45CFFC46BCE8F2780354BC023E4FF"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC_PRIZE_SUBMISSION\\AUDIT_SUMMARY.md",
+        "Hash":  "BE37BA02B58C11B23B4A0945049D327B7FE1D9DA581A042286BB16BBB045FEEB"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC_PRIZE_SUBMISSION\\FINAL_GLOBAL_SHA256_LOCK.json",
+        "Hash":  "D34F3445AB73553550F39CA4576D01A718488E55393AE30D068346D2F24C936A"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC_PRIZE_SUBMISSION\\FULL_REPO_SHA256_RECHECK.json",
+        "Hash":  "5B3ADAB9F4E88C102B507CE9510049C588323C56B7F6DD6C786CF3228FDAD028"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC_PRIZE_SUBMISSION\\mission_arc_agi_2.json",
+        "Hash":  "4946CC38694CEA18B2EA8D5A4D64F65726F78C4F8D4057F29D167317BABDF119"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC_PRIZE_SUBMISSION\\README.md",
+        "Hash":  "9A1FCF1265B3493101C8666F2F97C93860858AFACFEB39B12470692AC467BFF2"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC_PRIZE_SUBMISSION\\results.txt",
+        "Hash":  "6D9FDFD2CD7FA8860F7C0641D05745A534262D7E6687CBE3C71F0B2366BF86F1"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC_PRIZE_SUBMISSION\\SUBMISSION_SHA256.json",
+        "Hash":  "2419CAC128301DE04BB1924E3BC001D401B07FD88D762CA98BA94F8B099F01A6"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC_PRIZE_SUBMISSION\\evidence\\arc_agi_2_task_1-epoch-proof.json",
+        "Hash":  "E777296408C01E35D4F7F36719D956CF8D0B6FE4C6D18A8633C153960511AAD4"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC_PRIZE_SUBMISSION\\evidence\\arc_agi_2_task_1-verification.json",
+        "Hash":  "877CD7D3BD49D89DACA85BD416CAD2B37F5EBE257C453ADF5CFD5F4973B597EE"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC_PRIZE_SUBMISSION\\evidence\\arc_solver.py",
+        "Hash":  "9E01128551A9BD1F8C0923C3BE2ABAA6578BAEFD532C248F3B18F0BCF96A0CBC"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC_PRIZE_SUBMISSION\\evidence\\hashes.sha256",
+        "Hash":  "9EE01F4EE2483990D196CB8179DB4562B0741D0E120CD4A23ACE9AEFD3C7343E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC_PRIZE_SUBMISSION\\evidence\\manifest.json",
+        "Hash":  "97C5D0F1096C0A808969B2071830BFB8CFA08A71DBD873D9C967BCA7136C0756"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC_PRIZE_SUBMISSION_VERIFY\\AUDIT_SUMMARY.md",
+        "Hash":  "BE37BA02B58C11B23B4A0945049D327B7FE1D9DA581A042286BB16BBB045FEEB"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC_PRIZE_SUBMISSION_VERIFY\\FINAL_GLOBAL_SHA256_LOCK.json",
+        "Hash":  "D34F3445AB73553550F39CA4576D01A718488E55393AE30D068346D2F24C936A"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC_PRIZE_SUBMISSION_VERIFY\\FULL_REPO_SHA256_RECHECK.json",
+        "Hash":  "5B3ADAB9F4E88C102B507CE9510049C588323C56B7F6DD6C786CF3228FDAD028"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC_PRIZE_SUBMISSION_VERIFY\\mission_arc_agi_2.json",
+        "Hash":  "4946CC38694CEA18B2EA8D5A4D64F65726F78C4F8D4057F29D167317BABDF119"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC_PRIZE_SUBMISSION_VERIFY\\README.md",
+        "Hash":  "9A1FCF1265B3493101C8666F2F97C93860858AFACFEB39B12470692AC467BFF2"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC_PRIZE_SUBMISSION_VERIFY\\results.txt",
+        "Hash":  "6D9FDFD2CD7FA8860F7C0641D05745A534262D7E6687CBE3C71F0B2366BF86F1"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC_PRIZE_SUBMISSION_VERIFY\\SUBMISSION_SHA256.json",
+        "Hash":  "2419CAC128301DE04BB1924E3BC001D401B07FD88D762CA98BA94F8B099F01A6"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC_PRIZE_SUBMISSION_VERIFY\\VERIFY_SHA256.json",
+        "Hash":  "09D1F7E73D6F5CD661D3525A88B99F2D0CA1080FADC62FC53F4B3AA2086A93E2"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC_PRIZE_SUBMISSION_VERIFY\\evidence\\arc_agi_2_task_1-epoch-proof.json",
+        "Hash":  "E777296408C01E35D4F7F36719D956CF8D0B6FE4C6D18A8633C153960511AAD4"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC_PRIZE_SUBMISSION_VERIFY\\evidence\\arc_agi_2_task_1-verification.json",
+        "Hash":  "877CD7D3BD49D89DACA85BD416CAD2B37F5EBE257C453ADF5CFD5F4973B597EE"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC_PRIZE_SUBMISSION_VERIFY\\evidence\\arc_solver.py",
+        "Hash":  "9E01128551A9BD1F8C0923C3BE2ABAA6578BAEFD532C248F3B18F0BCF96A0CBC"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC_PRIZE_SUBMISSION_VERIFY\\evidence\\hashes.sha256",
+        "Hash":  "9EE01F4EE2483990D196CB8179DB4562B0741D0E120CD4A23ACE9AEFD3C7343E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC_PRIZE_SUBMISSION_VERIFY\\evidence\\manifest.json",
+        "Hash":  "97C5D0F1096C0A808969B2071830BFB8CFA08A71DBD873D9C967BCA7136C0756"
+    },
+    {
         "Path":  "C:\\Users\\aureon\\asios-execution-set\\artifacts\\dd_run1.json",
         "Hash":  "14CAF2408853D6CB271C1B0908F8BB743023C30EED51BF32DA53073D659DE041"
     },
@@ -748,16 +4552,8 @@
         "Hash":  "AE90AAD0B6224B91CE27DD8244852FAA60CCB1E74A6EAED48DEA64B85C99358A"
     },
     {
-        "Path":  "C:\\Users\\aureon\\asios-execution-set\\decision-decomposition\\cross-model-convergence-benchmark\\raw_outputs\\claude\\run2.txt",
-        "Hash":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
-    },
-    {
         "Path":  "C:\\Users\\aureon\\asios-execution-set\\decision-decomposition\\cross-model-convergence-benchmark\\raw_outputs\\gpt4\\run1.txt",
         "Hash":  "EF95BA1700C2800C5D764E6B740F936E31359C8DD3A8EB6E95EE845A135DEC3E"
-    },
-    {
-        "Path":  "C:\\Users\\aureon\\asios-execution-set\\decision-decomposition\\cross-model-convergence-benchmark\\raw_outputs\\grok\\run1.txt",
-        "Hash":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
     },
     {
         "Path":  "C:\\Users\\aureon\\asios-execution-set\\decision-decomposition\\decision-structure-invariants\\infrastructure_outage.md",
@@ -800,10 +4596,6 @@
         "Hash":  "A030C360F590D965553E38B421F9ECBBE1C36E1061E9F37CA24BF8DE8A5F49E5"
     },
     {
-        "Path":  "C:\\Users\\aureon\\asios-execution-set\\decision-decomposition\\intel_firewall_engine\\__init__.py",
-        "Hash":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
-    },
-    {
         "Path":  "C:\\Users\\aureon\\asios-execution-set\\decision-decomposition\\intel_firewall_engine\\engine\\demo_full_run.py",
         "Hash":  "83160E784A8D48A670F375008D19536AD206252298998408899709AB76AE68A8"
     },
@@ -842,10 +4634,6 @@
     {
         "Path":  "C:\\Users\\aureon\\asios-execution-set\\decision-decomposition\\intel_firewall_engine\\engine\\primitives.py",
         "Hash":  "442AEFC8CCB4B8EEC8615B0B67EC9A3A3A8EC725A8DF3A528F39200B9F47BCDA"
-    },
-    {
-        "Path":  "C:\\Users\\aureon\\asios-execution-set\\decision-decomposition\\intel_firewall_engine\\engine\\__init__.py",
-        "Hash":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
     },
     {
         "Path":  "C:\\Users\\aureon\\asios-execution-set\\decision-decomposition\\intel_firewall_engine\\intel_firewall_engine\\engine\\demo_full_run.py",
@@ -918,10 +4706,6 @@
     {
         "Path":  "C:\\Users\\aureon\\asios-execution-set\\decision_decomposition\\decompose.py",
         "Hash":  "0CFD04243E2B471B472F92DAA716E568B1A45CFFC46BCE8F2780354BC023E4FF"
-    },
-    {
-        "Path":  "C:\\Users\\aureon\\asios-execution-set\\decision_decomposition\\__init__.py",
-        "Hash":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
     },
     {
         "Path":  "C:\\Users\\aureon\\asios-execution-set\\evidence\\arc_agi_2_task_1-epoch-proof.json",
