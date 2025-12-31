@@ -1,11 +1,14 @@
-# ARC Solver
-# Placeholder for solver code
-def solve_task(task_input):
-    # Implement solver logic here
-    return "solution_placeholder"
+# Placeholder Python solver for ARC-AGI-2
+# Replace with actual solver code
+def solve(tasks):
+    return ["placeholder_solution" for _ in tasks]
 
 if __name__ == '__main__':
-    import json, sys
-    tasks = json.load(open(sys.argv[1]))
-    results = [solve_task(t) for t in tasks]
-    json.dump(results, open(sys.argv[2], 'w'))
+    import json
+    tasks_file = "tasks.json"
+    output_file = "results.json"
+    with open(tasks_file, "r") as f:
+        tasks = json.load(f)
+    results = solve(tasks)
+    with open(output_file, "w") as f:
+        json.dump(results, f)
