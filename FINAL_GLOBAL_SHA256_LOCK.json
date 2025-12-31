@@ -80,6 +80,10 @@
         "Hash":  "D5A71CEF688DC5571485074DC658F84DA665EBF63688789B9D45169A68E7341F"
     },
     {
+        "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\CLAUDE_VERIFICATION_PACKAGE.zip",
+        "Hash":  "94870513F090F1BE92F5A240403EC91A4E51AAA57959018377985791FF2ABB3B"
+    },
+    {
         "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\compute_convergence.py",
         "Hash":  "47B25654FAEC2FA9109088F592AD30DB567524C6180EE14D6EDAC38BF849F8F1"
     },
@@ -92,18 +96,6 @@
         "Hash":  "1B699DAB9634D75FEFF0C5FBBB2E50FD577446A6CE6CC147C12B72250F3CC931"
     },
     {
-        "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\ersaureonasios-execution-set? -Recurse -File ?",
-        "Hash":  "2D77F19C3AB7C748E764B5E094D289F565DE58C1994C7B17725574F51A165C8A"
-    },
-    {
-        "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\ersaureonasios-execution-set? -Recurse -File ? Where-Object { $_.Length -eq 0 } ? Remove-Item -Force",
-        "Hash":  "190B1B82A08D94C79CD6394B0D140A1D061D01BC3BD104157A67FBD4E9334742"
-    },
-    {
-        "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\ersaureonasios-execution-set? -Recurse -File ? Where-Object { $_.Length -eq 0 } ? Select-Object FullName,Length",
-        "Hash":  "190B1B82A08D94C79CD6394B0D140A1D061D01BC3BD104157A67FBD4E9334742"
-    },
-    {
         "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\EVIDENCE_RECHECK.sha256",
         "Hash":  "A055DBF1BD679364A7E609FF9ED2DE2C99A8AB9E426140D5645F275D8B9ED0ED"
     },
@@ -113,7 +105,7 @@
     },
     {
         "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\FINAL_GLOBAL_SHA256_LOCK.json",
-        "Hash":  "7C891C68DCA46DA23EFEFD2C89BC5AADC03C5C44A6BBC1F6EE8E4C5B8985AFF8"
+        "Hash":  "E066221ED14B408F2DD9FC112594A0D8FE7957FB2DCF47D681B38A988F65C09C"
     },
     {
         "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\FULL_REPO_SHA256_MANIFEST.csv",
@@ -125,10 +117,6 @@
     },
     {
         "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\h C?Usersaureonasios-execution-setARC_PRIZE_SUBMISSION_FINAL_v2.zip -Algorithm SHA256",
-        "Hash":  "2D77F19C3AB7C748E764B5E094D289F565DE58C1994C7B17725574F51A165C8A"
-    },
-    {
-        "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\h ?C?Usersaureonasios-execution-setAureon Swam Agents.zip? -Algorithm SHA256 ? Format-List",
         "Hash":  "2D77F19C3AB7C748E764B5E094D289F565DE58C1994C7B17725574F51A165C8A"
     },
     {
@@ -4172,10 +4160,6 @@
         "Hash":  "2961B00B580E898EC78DB0D4C34C2850D7D66E590458A3B2522B71C03E79B0C2"
     },
     {
-        "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\asios-execution-set\\decision-decomposition\\s-model convergence record?",
-        "Hash":  "11FB2D2CF6AF32B75936744758F84B5337E79E98B697AD8ACE6B3B9209AFEEA8"
-    },
-    {
         "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\asios-execution-set\\decision-decomposition\\tatus",
         "Hash":  "AB5071B7F1A334D73A3DD88C96FA212DE3A3DC19C681A58299A18CCD557A8A16"
     },
@@ -4476,18 +4460,6 @@
         "Hash":  "1B699DAB9634D75FEFF0C5FBBB2E50FD577446A6CE6CC147C12B72250F3CC931"
     },
     {
-        "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\aureon-swarm-proof\\ersaureonasios-execution-set? -Recurse -File ?",
-        "Hash":  "C9D0F03E4F11C2939949A891A5EA253C0A1F5B29C6452938A15A10296E8FBE3F"
-    },
-    {
-        "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\aureon-swarm-proof\\ersaureonasios-execution-set? -Recurse -File ? Where-Object { $_.Length -eq 0 } ? Remove-Item -Force",
-        "Hash":  "5EF9C9FD6A7C71038D38258C5A2C89E084501F8E2157A504C9FB9DCC14147752"
-    },
-    {
-        "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\aureon-swarm-proof\\ersaureonasios-execution-set? -Recurse -File ? Where-Object { $_.Length -eq 0 } ? Select-Object FullName,Length",
-        "Hash":  "5EF9C9FD6A7C71038D38258C5A2C89E084501F8E2157A504C9FB9DCC14147752"
-    },
-    {
         "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\aureon-swarm-proof\\EVIDENCE_RECHECK.sha256",
         "Hash":  "A055DBF1BD679364A7E609FF9ED2DE2C99A8AB9E426140D5645F275D8B9ED0ED"
     },
@@ -4509,10 +4481,6 @@
     },
     {
         "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\aureon-swarm-proof\\h C?Usersaureonasios-execution-setARC_PRIZE_SUBMISSION_FINAL_v2.zip -Algorithm SHA256",
-        "Hash":  "C9D0F03E4F11C2939949A891A5EA253C0A1F5B29C6452938A15A10296E8FBE3F"
-    },
-    {
-        "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\aureon-swarm-proof\\h ?C?Usersaureonasios-execution-setAureon Swam Agents.zip? -Algorithm SHA256 ? Format-List",
         "Hash":  "C9D0F03E4F11C2939949A891A5EA253C0A1F5B29C6452938A15A10296E8FBE3F"
     },
     {
@@ -5210,10 +5178,6 @@
     {
         "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\aureon-swarm-proof\\decision-decomposition\\run_infrastructure_outage.py",
         "Hash":  "2961B00B580E898EC78DB0D4C34C2850D7D66E590458A3B2522B71C03E79B0C2"
-    },
-    {
-        "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\aureon-swarm-proof\\decision-decomposition\\s-model convergence record?",
-        "Hash":  "11FB2D2CF6AF32B75936744758F84B5337E79E98B697AD8ACE6B3B9209AFEEA8"
     },
     {
         "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\aureon-swarm-proof\\decision-decomposition\\tatus",
@@ -9524,10 +9488,6 @@
         "Hash":  "2961B00B580E898EC78DB0D4C34C2850D7D66E590458A3B2522B71C03E79B0C2"
     },
     {
-        "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\aureon-swarm-proof\\extracted\\ARC\\decision-decomposition\\s-model convergence record?",
-        "Hash":  "11FB2D2CF6AF32B75936744758F84B5337E79E98B697AD8ACE6B3B9209AFEEA8"
-    },
-    {
         "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\aureon-swarm-proof\\extracted\\ARC\\decision-decomposition\\tatus",
         "Hash":  "AB5071B7F1A334D73A3DD88C96FA212DE3A3DC19C681A58299A18CCD557A8A16"
     },
@@ -9934,10 +9894,6 @@
     {
         "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\aureon-swarm-proof\\extracted\\decision-decomposition\\run_infrastructure_outage.py",
         "Hash":  "2961B00B580E898EC78DB0D4C34C2850D7D66E590458A3B2522B71C03E79B0C2"
-    },
-    {
-        "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\aureon-swarm-proof\\extracted\\decision-decomposition\\s-model convergence record?",
-        "Hash":  "11FB2D2CF6AF32B75936744758F84B5337E79E98B697AD8ACE6B3B9209AFEEA8"
     },
     {
         "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\aureon-swarm-proof\\extracted\\decision-decomposition\\tatus",
@@ -11474,10 +11430,6 @@
     {
         "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\decision-decomposition\\run_infrastructure_outage.py",
         "Hash":  "2961B00B580E898EC78DB0D4C34C2850D7D66E590458A3B2522B71C03E79B0C2"
-    },
-    {
-        "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\decision-decomposition\\s-model convergence record?",
-        "Hash":  "11FB2D2CF6AF32B75936744758F84B5337E79E98B697AD8ACE6B3B9209AFEEA8"
     },
     {
         "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\decision-decomposition\\tatus",
@@ -15788,10 +15740,6 @@
         "Hash":  "2961B00B580E898EC78DB0D4C34C2850D7D66E590458A3B2522B71C03E79B0C2"
     },
     {
-        "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\extracted\\ARC\\decision-decomposition\\s-model convergence record?",
-        "Hash":  "11FB2D2CF6AF32B75936744758F84B5337E79E98B697AD8ACE6B3B9209AFEEA8"
-    },
-    {
         "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\extracted\\ARC\\decision-decomposition\\tatus",
         "Hash":  "AB5071B7F1A334D73A3DD88C96FA212DE3A3DC19C681A58299A18CCD557A8A16"
     },
@@ -16198,10 +16146,6 @@
     {
         "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\extracted\\decision-decomposition\\run_infrastructure_outage.py",
         "Hash":  "2961B00B580E898EC78DB0D4C34C2850D7D66E590458A3B2522B71C03E79B0C2"
-    },
-    {
-        "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\extracted\\decision-decomposition\\s-model convergence record?",
-        "Hash":  "11FB2D2CF6AF32B75936744758F84B5337E79E98B697AD8ACE6B3B9209AFEEA8"
     },
     {
         "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\extracted\\decision-decomposition\\tatus",
