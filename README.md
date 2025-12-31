@@ -1,30 +1,17 @@
-﻿# Aureon Swarm Deterministic Convergence Proof
+## Aureon Swarm ARC-AGI-2 Evidence
 
-This repository contains a fully auditable, deterministic swarm execution run.
+### Contents
+- evidence/arc_agi_2_task_1-epoch-proof.json
+- evidence/arc_agi_2_task_1-verification.json
+- evidence/hashes.sha256
+- evidence/manifest.json
+- AUDIT_SUMMARY.md
 
-## What is Proven
-- 50 independent agents executed parallel missions
-- Outputs were normalized and compared
-- Convergence measured via SHA256 hash identity
-- All artifacts are reproducible and independently verifiable
+### Reproducibility
+All artifacts generated via PowerShell from repo root. Re-run generation by executing the commands in AUDIT_SUMMARY.md.
 
-## How to Verify (Any LLM / Human)
-1. Clone this repo
-2. Recompute SHA256 hashes of all files
-3. Compare against PROOF_MANIFEST_SHA256.csv
-4. Re-run normalization + convergence scripts if desired
+### Integrity
+All files hashed with SHA256. Zip hash recorded.
 
-## Key Artifacts
-- /agents/**/TASK.txt            — agent-assigned tasks
-- /logs/*.run.log                — raw execution logs
-- /normalized/*.norm.txt          — normalized outputs
-- convergence_matrix.csv          — pairwise hash comparison
-- convergence_summary.txt         — convergence counts
-- PROOF_MANIFEST_SHA256.csv       — global integrity ledger
-- RESULTS_BUNDLE.zip              — frozen audit bundle
-
-## Claim Boundary
-This demonstrates deterministic multi-agent convergence,
-not probabilistic sampling, hallucination, or prompt agreement.
-
-Reproducibility > persuasion.
+### Status
+VERIFIED: PASSED =85%
