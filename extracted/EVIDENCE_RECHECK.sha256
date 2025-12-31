@@ -1,0 +1,26 @@
+[
+    {
+        "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\evidence\\arc_agi_2_task_1-epoch-proof.json",
+        "Hash":  "E777296408C01E35D4F7F36719D956CF8D0B6FE4C6D18A8633C153960511AAD4"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\evidence\\arc_agi_2_task_1-verification.json",
+        "Hash":  "877CD7D3BD49D89DACA85BD416CAD2B37F5EBE257C453ADF5CFD5F4973B597EE"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\evidence\\arc_solver.py",
+        "Hash":  "9E01128551A9BD1F8C0923C3BE2ABAA6578BAEFD532C248F3B18F0BCF96A0CBC"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\evidence\\hashes.sha256",
+        "Hash":  "9EE01F4EE2483990D196CB8179DB4562B0741D0E120CD4A23ACE9AEFD3C7343E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\evidence\\manifest.json",
+        "Hash":  "97C5D0F1096C0A808969B2071830BFB8CFA08A71DBD873D9C967BCA7136C0756"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\AUDIT_SUMMARY.md",
+        "Hash":  "BE37BA02B58C11B23B4A0945049D327B7FE1D9DA581A042286BB16BBB045FEEB"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC_PRIZE_SUBMISSION\\AUDIT_SUMMARY.md",
+        "Hash":  "BE37BA02B58C11B23B4A0945049D327B7FE1D9DA581A042286BB16BBB045FEEB"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC_PRIZE_SUBMISSION\\FINAL_GLOBAL_SHA256_LOCK.json",
+        "Hash":  "D34F3445AB73553550F39CA4576D01A718488E55393AE30D068346D2F24C936A"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC_PRIZE_SUBMISSION\\FULL_REPO_SHA256_RECHECK.json",
+        "Hash":  "5B3ADAB9F4E88C102B507CE9510049C588323C56B7F6DD6C786CF3228FDAD028"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC_PRIZE_SUBMISSION\\mission_arc_agi_2.json",
+        "Hash":  "4946CC38694CEA18B2EA8D5A4D64F65726F78C4F8D4057F29D167317BABDF119"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC_PRIZE_SUBMISSION\\README.md",
+        "Hash":  "9A1FCF1265B3493101C8666F2F97C93860858AFACFEB39B12470692AC467BFF2"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC_PRIZE_SUBMISSION\\results.txt",
+        "Hash":  "6D9FDFD2CD7FA8860F7C0641D05745A534262D7E6687CBE3C71F0B2366BF86F1"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC_PRIZE_SUBMISSION\\evidence\\arc_agi_2_task_1-epoch-proof.json",
+        "Hash":  "E777296408C01E35D4F7F36719D956CF8D0B6FE4C6D18A8633C153960511AAD4"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC_PRIZE_SUBMISSION\\evidence\\arc_agi_2_task_1-verification.json",
+        "Hash":  "877CD7D3BD49D89DACA85BD416CAD2B37F5EBE257C453ADF5CFD5F4973B597EE"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC_PRIZE_SUBMISSION\\evidence\\arc_solver.py",
+        "Hash":  "9E01128551A9BD1F8C0923C3BE2ABAA6578BAEFD532C248F3B18F0BCF96A0CBC"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC_PRIZE_SUBMISSION\\evidence\\hashes.sha256",
+        "Hash":  "9EE01F4EE2483990D196CB8179DB4562B0741D0E120CD4A23ACE9AEFD3C7343E"
+    },
+    {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\ARC_PRIZE_SUBMISSION\\evidence\\manifest.json",
+        "Hash":  "97C5D0F1096C0A808969B2071830BFB8CFA08A71DBD873D9C967BCA7136C0756"
+    }
+]
