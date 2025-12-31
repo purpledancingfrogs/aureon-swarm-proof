@@ -1,0 +1,8 @@
+Claude Audit Instructions:
+
+1. Extract ARC_PRIZE_AUDIT_PACKAGE.zip.
+2. Verify SHA256 hashes match FINAL_GLOBAL_SHA256_LOCK.json.
+3. Run arc_solver.py on the provided task JSONs.
+4. Verify outputs in arc_agi_2_task_1_epoch_proof.json and arc_agi_2_task_1_verification.json.
+5. Confirm solver reproducibility and =85% performance.
+6. Produce a detailed audit report including file integrity, execution results, and timestamps.
