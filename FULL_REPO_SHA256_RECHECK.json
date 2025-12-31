@@ -92,6 +92,10 @@
         "Hash":  "E47F0DA0FC9EB8A91E4FC8BD502C7664EEB4D1DE7BFF0EA2FB74D4242A062A55"
     },
     {
+        "Path":  "C:\\Users\\aureon\\asios-execution-set\\FULL_REPO_SHA256_RECHECK.json",
+        "Hash":  "B5A508D3D9168CFDFC712F13A8D2A399181802FE4A7C0CA9D85FC92DD0B580F4"
+    },
+    {
         "Path":  "C:\\Users\\aureon\\asios-execution-set\\hello_from_asios.txt",
         "Hash":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
     },
