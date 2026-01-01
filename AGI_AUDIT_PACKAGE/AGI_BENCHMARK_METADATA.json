@@ -1,0 +1,7 @@
+﻿{
+    "archive_sig_status":  "INVALID",
+    "signature_algorithm":  "SHA512",
+    "audit_timestamp":  "2026-01-01T04:31:24.6069771-05:00",
+    "hash_algorithm":  "SHA256",
+    "agent_consistency":  "PASS"
+}
