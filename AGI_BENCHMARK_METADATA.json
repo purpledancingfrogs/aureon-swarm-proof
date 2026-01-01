@@ -1,0 +1,26 @@
+﻿{
+    "verification_artifacts":  {
+                                   "archive_check":  "FINAL_ARCHIVE_CHECK.md",
+                                   "submodule_audit":  "SUBMODULE_HASH_VERIFICATION.md",
+                                   "integrity_report":  "VERIFICATION_REPORT.md",
+                                   "cryptographic_signature":  "FINAL_ARCHIVE_CHECK.sig"
+                               },
+    "benchmark_metadata":  {
+                               "agent_runs":  50,
+                               "timestamp":  "2026-01-01T04:25:07Z",
+                               "version":  "1.0.0",
+                               "determinism_status":  "VERIFIED"
+                           },
+    "security_parameters":  {
+                                "primary_hash_algorithm":  "SHA256",
+                                "archive_signature_algorithm":  "SHA512",
+                                "submodule_reference":  "SHA-1"
+                            },
+    "documented_exceptions":  [
+                                  {
+                                      "reason":  "Non-deterministic telemetry/metadata injection by execution wrapper",
+                                      "file":  "**main**.rerun.log.norm.txt",
+                                      "impact":  "None on core agent logic"
+                                  }
+                              ]
+}
