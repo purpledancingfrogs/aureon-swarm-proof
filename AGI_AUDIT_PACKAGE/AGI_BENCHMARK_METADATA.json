@@ -1,7 +1,8 @@
 ﻿{
-    "archive_sig_status":  "INVALID",
-    "signature_algorithm":  "SHA512",
-    "audit_timestamp":  "2026-01-01T04:31:24.6069771-05:00",
     "hash_algorithm":  "SHA256",
-    "agent_consistency":  "PASS"
+    "rerun_log_status":  "Divergence Documented",
+    "agent_consistency":  "PASS",
+    "archive_sig_status":  "INVALID",
+    "audit_timestamp":  "2026-01-01T04:33:24.2912911-05:00",
+    "signature_algorithm":  "SHA512"
 }
