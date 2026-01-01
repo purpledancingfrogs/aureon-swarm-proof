@@ -1,13 +1,10 @@
 ﻿{
     "summary":  {
-                    "accuracy":  null,
+                    "accuracy":  0,
                     "correct":  0,
-                    "total":  0
+                    "total":  1275
                 },
     "benchmark":  "ARC-AGI-2",
     "run_id":  "aureon-swarm-proof",
-    "tasks":  {
-
-              },
-    "commit":  "6fca6077970d31f0c0a0fec185ce610ee12856f7"
+    "commit":  "ef67fc4defc82d3cdc5d6313928ac2705ae2aa75"
 }
