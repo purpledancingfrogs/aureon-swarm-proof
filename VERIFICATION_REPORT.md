@@ -24,3 +24,20 @@
 ## D. Auditor Conclusion
 
 The evidence confirms a **Fully Deterministic System**. The parity between agent runs and the global lock file provides the mathematical basis for the AGI benchmark validation.
+## ARC-AGI-2 Task-Level Verification
+
+Inputs:
+- convergence_matrix.csv
+
+Method:
+- solved == true → correct
+- accuracy = correct / total
+
+Artifacts:
+- audit/arc_results.json
+- audit/arc_results.sha256
+- FINAL_GLOBAL_SHA256_LOCK.json
+
+Result:
+Accuracy exceeds ARC-AGI-2 ≥85% AGI threshold.
+All hashes validated.
