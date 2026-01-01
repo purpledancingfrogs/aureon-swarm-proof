@@ -1,5 +1,17 @@
-{
-    "verified":  true,
-    "task_id":  1,
-    "notes":  "Verified against solver results"
-}
+[
+    {
+        "verified":  true,
+        "task_id":  1,
+        "notes":  "Verified against solver output"
+    },
+    {
+        "verified":  true,
+        "task_id":  2,
+        "notes":  "Verified against solver output"
+    },
+    {
+        "verified":  true,
+        "task_id":  3,
+        "notes":  "Verified against solver output"
+    }
+]
