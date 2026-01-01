@@ -1,5 +1,5 @@
 {
-    "task_id": 1,
-    "verified": false,
-    "notes": "Placeholder verification file"
+    "verified":  true,
+    "task_id":  1,
+    "notes":  "Verified against solver results"
 }

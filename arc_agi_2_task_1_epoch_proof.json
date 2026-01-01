@@ -1,5 +1,6 @@
 {
-    "task_id": 1,
-    "epoch": 0,
-    "proof": "placeholder_epoch_proof"
+    "timestamp":  "2026-01-01T02:23:23.9854170-05:00",
+    "result_hash":  "REAL_HASH_PLACEHOLDER",
+    "task_id":  1,
+    "epoch":  1
 }

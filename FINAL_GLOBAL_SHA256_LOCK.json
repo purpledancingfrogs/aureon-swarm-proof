@@ -1,15 +1,15 @@
 [
     {
         "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\arc-agi-2-results-audit.txt",
-        "Hash":  "0B9905AE5DCF1A56CCC657F77FD59AA0AE983230B3331FBC441E8A6910E10699"
+        "Hash":  "74E80CB65E260117BB5BEF3C31299A468FFC05CEEFA91202B9F551B924FFF7BD"
     },
     {
         "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\arc_agi_2_task_1_epoch_proof.json",
-        "Hash":  "38A5D3CBA39152C2A48BFACAC97699CA0DD25AB7FD914DF799E0B79ED317D894"
+        "Hash":  "68B846687E5768061BAF646F5408C3B87CC53937ACC781A08C486AFE86D3DA6D"
     },
     {
         "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\arc_agi_2_task_1_verification.json",
-        "Hash":  "8376CEEC55ABC7B07A5457A73A66B2DA93E84FB38329FDA93D84C14687E60DFC"
+        "Hash":  "288A80EE712DC703B282AE0B4F65911333C1CE098AFAB73AF8AB1FA361A3ECAB"
     },
     {
         "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\ARC_AGI_ARTIFACTS_SUMMARY.txt",
@@ -49,7 +49,7 @@
     },
     {
         "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\arc_solver.py",
-        "Hash":  "92D2108A8BA0CD7A0461E0C460CDDA5C0751C938C921114185C303F579C25E87"
+        "Hash":  "81E1D0D2009168C62F56D0CC7B0DF048B8EB744CA75B470B2C0DD49139D9860F"
     },
     {
         "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\asiosctl.py",
@@ -121,7 +121,7 @@
     },
     {
         "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\FINAL_GLOBAL_SHA256_LOCK.json",
-        "Hash":  "69534AD10C6D47D2CBEA78A486D022335DFF36BBCFDB995AD777B9362D2E5F29"
+        "Hash":  "8E236B0386F654B25AAF9D9F9AA441CE733C3A370ED77ECD7E41AD544E3A0312"
     },
     {
         "Path":  "C:\\Users\\aureon\\aureon-swarm-proof\\FULL_REPO_SHA256_MANIFEST.csv",
