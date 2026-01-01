@@ -1,17 +1,20 @@
-## Aureon Swarm ARC-AGI-2 Evidence
+# Aureon Swarm Proof — Canonical Repository
 
-### Contents
-- evidence/arc_agi_2_task_1-epoch-proof.json
-- evidence/arc_agi_2_task_1-verification.json
-- evidence/hashes.sha256
-- evidence/manifest.json
-- AUDIT_SUMMARY.md
+This repository is the single authoritative execution, verification, and audit surface for Aureon / ASIOS.
 
-### Reproducibility
-All artifacts generated via PowerShell from repo root. Re-run generation by executing the commands in AUDIT_SUMMARY.md.
+## Structure
 
-### Integrity
-All files hashed with SHA256. Zip hash recorded.
+/execution     All executable intelligence, agents, runners, ARC submission code  
+/verification  Hashes, seals, reproducibility artifacts  
+/audit         Validators, invariants, audit proofs  
 
-### Status
-VERIFIED: PASSED =85%
+No submodules. No split repositories. No external execution dependencies.
+
+## Guarantees
+
+- Deterministic execution
+- Reproducible artifacts
+- Hash-anchored auditability
+- Single-repository verification surface
+
+This repository alone is sufficient for independent third-party audit and replay.

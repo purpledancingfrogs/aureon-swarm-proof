@@ -1,0 +1,11 @@
+audit_index:
+  repository: aureon-swarm-proof
+  canonical: true
+  execution_root: execution
+  verification_root: verification
+  audit_root: audit
+  guarantees:
+    - determinism
+    - reproducibility
+    - invariant_enforcement
+    - hash_integrity
