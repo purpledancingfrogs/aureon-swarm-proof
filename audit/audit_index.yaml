@@ -1,0 +1,7 @@
+audit_index:
+  repository: aureon-swarm-proof
+  canonical: true
+  execution_root: execution
+  audit_root: audit
+  generated_at: 2026-01-01T05:59:46.0374021-05:00
+  execution_files: 2995

@@ -1,20 +1,15 @@
 # Aureon Swarm Proof — Canonical Repository
 
-This repository is the single authoritative execution, verification, and audit surface for Aureon / ASIOS.
+Single authoritative execution and audit surface.
 
 ## Structure
-
-/execution     All executable intelligence, agents, runners, ARC submission code  
-/verification  Hashes, seals, reproducibility artifacts  
-/audit         Validators, invariants, audit proofs  
-
-No submodules. No split repositories. No external execution dependencies.
+execution/   All executable agents, orchestrator, ARC submission, logs  
+audit/       Hash manifests and audit index  
 
 ## Guarantees
+- Single repository
+- Deterministic execution artifacts
+- Hash-locked audit surface
+- Independent replay possible
 
-- Deterministic execution
-- Reproducible artifacts
-- Hash-anchored auditability
-- Single-repository verification surface
-
-This repository alone is sufficient for independent third-party audit and replay.
+This repository alone is sufficient for verification.
