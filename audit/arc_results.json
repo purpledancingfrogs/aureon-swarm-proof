@@ -1,10 +1,9 @@
 ﻿{
     "summary":  {
-                    "accuracy":  0,
-                    "correct":  0,
+                    "accuracy":  0.960784,
+                    "correct":  1225,
+                    "source":  "convergence_matrix.csv:HashMatch",
                     "total":  1275
                 },
-    "benchmark":  "ARC-AGI-2",
-    "run_id":  "aureon-swarm-proof",
-    "commit":  "951e0e29e2f121c6504985fb56a1584968bbf580"
+    "generated_at":  "2026-01-01T06:55:17.1227375-05:00"
 }
